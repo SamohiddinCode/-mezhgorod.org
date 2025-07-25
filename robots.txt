@@ -1,0 +1,12 @@
+User-agent: Yandex
+Allow: /
+Allow: /*.css
+Allow: /*.js
+Sitemap: https://mezhgorod.org/sitemap.xml
+Host: https://mezhgorod.org/
+
+User-agent: *
+Allow: /
+Allow: /*.css
+Allow: /*.js
+Sitemap: https://mezhgorod.org/sitemap.xml

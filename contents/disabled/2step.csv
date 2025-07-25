@@ -1,0 +1,1634 @@
+gorod-maykop;adygeya-resp;Город Майкоп;Адыгея Республика
+gorod-adygeysk;adygeya-resp;Город Адыгейск;Адыгея Республика
+gorod-ufa;bashkortostan-resp;Город Уфа;Башкортостан Республика
+gorod-agidel;bashkortostan-resp;Город Агидель;Башкортостан Республика
+gorod-neftekamsk;bashkortostan-resp;Город Нефтекамск;Башкортостан Республика
+gorod-oktyabrskiy;bashkortostan-resp;Город Октябрьский;Башкортостан Республика
+gorod-salavat;bashkortostan-resp;Город Салават;Башкортостан Республика
+gorod-sibay;bashkortostan-resp;Город Сибай;Башкортостан Республика
+gorod-kumertau;bashkortostan-resp;Город Кумертау;Башкортостан Республика
+gorod-mezhgore;bashkortostan-resp;Город Межгорье;Башкортостан Республика
+gorod-sterlitamak;bashkortostan-resp;Город Стерлитамак;Башкортостан Республика
+gorod-ufa-bashkortostan-resp;bashkortostan-resp;Город Уфа;Башкортостан Республика
+gorod-baymak;bashkortostan-resp;Город Баймак;Башкортостан Республика
+gorod-belebey;bashkortostan-resp;Город Белебей;Башкортостан Республика
+gorod-beloretsk;bashkortostan-resp;Город Белорецк;Башкортостан Республика
+gorod-mezhgore-bashkortostan-resp;bashkortostan-resp;Город Межгорье;Башкортостан Республика
+gorod-birsk;bashkortostan-resp;Город Бирск;Башкортостан Республика
+gorod-blagoveschensk;bashkortostan-resp;Город Благовещенск;Башкортостан Республика
+gorod-ishimbay;bashkortostan-resp;Город Ишимбай;Башкортостан Республика
+gorod-meleuz;bashkortostan-resp;Город Мелеуз;Башкортостан Республика
+gorod-sterlitamak-bashkortostan-resp;bashkortostan-resp;Город Стерлитамак;Башкортостан Республика
+gorod-tuymazy;bashkortostan-resp;Город Туймазы;Башкортостан Республика
+gorod-uchaly;bashkortostan-resp;Город Учалы;Башкортостан Республика
+gorod-yanaul;bashkortostan-resp;Город Янаул;Башкортостан Республика
+gorod-davlekanovo;bashkortostan-resp;Город Давлеканово;Башкортостан Республика
+gorod-dyurtyuli;bashkortostan-resp;Город Дюртюли;Башкортостан Республика
+gorod-ulan-ude;buryatiya-resp;Город Улан-Удэ;Бурятия Республика
+gorod-severobaykalsk;buryatiya-resp;Город Северобайкальск;Бурятия Республика
+gorod-zakamensk;buryatiya-resp;Город Закаменск;Бурятия Республика
+gorod-babushkin;buryatiya-resp;Город Бабушкин;Бурятия Республика
+gorod-kyakhta;buryatiya-resp;Город Кяхта;Бурятия Республика
+gorod-severobaykalsk-buryatiya-resp;buryatiya-resp;Город Северобайкальск;Бурятия Республика
+gorod-gusinoozersk;buryatiya-resp;Город Гусиноозерск;Бурятия Республика
+gorod-gorno-altaysk;altay-resp;Город Горно-Алтайск;Алтай Республика
+gorod-makhachkala;dagestan-resp;Город Махачкала;Дагестан Республика
+gorod-dagestanskie-ogni;dagestan-resp;Город Дагестанские Огни;Дагестан Республика
+gorod-izberbash;dagestan-resp;Город Избербаш;Дагестан Республика
+gorod-kaspiysk;dagestan-resp;Город Каспийск;Дагестан Республика
+gorod-yuzhno-sukhokumsk;dagestan-resp;Город Южно-Сухокумск;Дагестан Республика
+gorod-derbent;dagestan-resp;Город Дербент;Дагестан Республика
+gorod-kizilyurt;dagestan-resp;Город Кизилюрт;Дагестан Республика
+gorod-kizlyar;dagestan-resp;Город Кизляр;Дагестан Республика
+gorod-khasavyurt;dagestan-resp;Город Хасавюрт;Дагестан Республика
+gorod-buynaksk;dagestan-resp;Город Буйнакск;Дагестан Республика
+gorod-magas;ingushetiya-resp;Город Магас;Ингушетия Республика
+gorod-karabulak;ingushetiya-resp;Город Карабулак;Ингушетия Республика
+gorod-nazran;ingushetiya-resp;Город Назрань;Ингушетия Республика
+gorod-malgobek;ingushetiya-resp;Город Малгобек;Ингушетия Республика
+gorod-sunzha;ingushetiya-resp;Город Сунжа;Ингушетия Республика
+gorod-nazran-ingushetiya-resp;ingushetiya-resp;Город Назрань;Ингушетия Республика
+gorod-malgobek-ingushetiya-resp;ingushetiya-resp;Город Малгобек;Ингушетия Республика
+gorod-karabulak-ingushetiya-resp;ingushetiya-resp;Город Карабулак;Ингушетия Республика
+gorod-ordzhonikidzevskoe;ingushetiya-resp;Город Орджоникидзевское;Ингушетия Республика
+gorod-nalchik;kabardino-balkarskaya-resp;Город Нальчик;Кабардино-Балкарская Республика
+gorod-prokhladnyy;kabardino-balkarskaya-resp;Город Прохладный;Кабардино-Балкарская Республика
+gorod-baksan;kabardino-balkarskaya-resp;Город Баксан;Кабардино-Балкарская Республика
+gorod-baksan-kabardino-balkarskaya-resp;kabardino-balkarskaya-resp;Город Баксан;Кабардино-Балкарская Республика
+gorod-mayskiy;kabardino-balkarskaya-resp;Город Майский;Кабардино-Балкарская Республика
+gorod-prokhladnyy-kabardino-balkarskaya-resp;kabardino-balkarskaya-resp;Город Прохладный;Кабардино-Балкарская Республика
+gorod-terek;kabardino-balkarskaya-resp;Город Терек;Кабардино-Балкарская Республика
+gorod-nartkala;kabardino-balkarskaya-resp;Город Нарткала;Кабардино-Балкарская Республика
+gorod-chegem;kabardino-balkarskaya-resp;Город Чегем;Кабардино-Балкарская Республика
+gorod-tyrnyauz;kabardino-balkarskaya-resp;Город Тырныауз;Кабардино-Балкарская Республика
+gorod-elista;kalmykiya-resp;Город Элиста;Калмыкия Республика
+gorod-gorodovikovsk;kalmykiya-resp;Город Городовиковск;Калмыкия Республика
+gorod-lagan;kalmykiya-resp;Город Лагань;Калмыкия Республика
+gorod-cherkessk;karachaevo-cherkesskaya-resp;Город Черкесск;Карачаево-Черкесская Республика
+gorod-karachaevsk;karachaevo-cherkesskaya-resp;Город Карачаевск;Карачаево-Черкесская Республика
+gorod-teberda;karachaevo-cherkesskaya-resp;Город Теберда;Карачаево-Черкесская Республика
+gorod-teberda-karachaevo-cherkesskaya-resp;karachaevo-cherkesskaya-resp;Город Теберда;Карачаево-Черкесская Республика
+gorod-ust-dzheguta;karachaevo-cherkesskaya-resp;Город Усть-Джегута;Карачаево-Черкесская Республика
+gorod-petrozavodsk;kareliya-resp;Город Петрозаводск;Карелия Республика
+gorod-kostomuksha;kareliya-resp;Город Костомукша;Карелия Республика
+gorod-sortavala;kareliya-resp;Город Сортавала;Карелия Республика
+gorod-belomorsk;kareliya-resp;Город Беломорск;Карелия Республика
+gorod-kem;kareliya-resp;Город Кемь;Карелия Республика
+gorod-kondopoga;kareliya-resp;Город Кондопога;Карелия Республика
+gorod-lakhdenpokhya;kareliya-resp;Город Лахденпохья;Карелия Республика
+gorod-medvezhegorsk;kareliya-resp;Город Медвежьегорск;Карелия Республика
+gorod-olonets;kareliya-resp;Город Олонец;Карелия Республика
+gorod-pitkyaranta;kareliya-resp;Город Питкяранта;Карелия Республика
+gorod-pudozh;kareliya-resp;Город Пудож;Карелия Республика
+gorod-segezha;kareliya-resp;Город Сегежа;Карелия Республика
+gorod-suoyarvi;kareliya-resp;Город Суоярви;Карелия Республика
+gorod-syktyvkar;komi-resp;Город Сыктывкар;Коми Республика
+gorod-vorkuta;komi-resp;Город Воркута;Коми Республика
+gorod-vuktyl;komi-resp;Город Вуктыл;Коми Республика
+gorod-inta;komi-resp;Город Инта;Коми Республика
+gorod-pechora;komi-resp;Город Печора;Коми Республика
+gorod-sosnogorsk;komi-resp;Город Сосногорск;Коми Республика
+gorod-usinsk;komi-resp;Город Усинск;Коми Республика
+gorod-ukhta;komi-resp;Город Ухта;Коми Республика
+gorod-vorkuta-komi-resp;komi-resp;Город Воркута;Коми Республика
+gorod-vuktyl-komi-resp;komi-resp;Город Вуктыл;Коми Республика
+gorod-inta-komi-resp;komi-resp;Город Инта;Коми Республика
+gorod-emva;komi-resp;Город Емва;Коми Республика
+gorod-pechora-komi-resp;komi-resp;Город Печора;Коми Республика
+gorod-sosnogorsk-komi-resp;komi-resp;Город Сосногорск;Коми Республика
+gorod-usinsk-komi-resp;komi-resp;Город Усинск;Коми Республика
+gorod-mikun;komi-resp;Город Микунь;Коми Республика
+gorod-ukhta-komi-resp;komi-resp;Город Ухта;Коми Республика
+gorod-yoshkar-ola;mariy-el-resp;Город Йошкар-Ола;Марий Эл Республика
+gorod-volzhsk;mariy-el-resp;Город Волжск;Марий Эл Республика
+gorod-kozmodemyansk;mariy-el-resp;Город Козьмодемьянск;Марий Эл Республика
+gorod-volzhsk-mariy-el-resp;mariy-el-resp;Город Волжск;Марий Эл Республика
+gorod-kozmodemyansk-mariy-el-resp;mariy-el-resp;Город Козьмодемьянск;Марий Эл Республика
+gorod-zvenigovo;mariy-el-resp;Город Звенигово;Марий Эл Республика
+gorod-saransk;mordoviya-resp;Город Саранск;Мордовия Республика
+gorod-kovylkino;mordoviya-resp;Город Ковылкино;Мордовия Республика
+gorod-ruzaevka;mordoviya-resp;Город Рузаевка;Мордовия Республика
+gorod-ardatov;mordoviya-resp;Город Ардатов;Мордовия Республика
+gorod-insar;mordoviya-resp;Город Инсар;Мордовия Республика
+gorod-kovylkino-mordoviya-resp;mordoviya-resp;Город Ковылкино;Мордовия Республика
+gorod-krasnoslobodsk;mordoviya-resp;Город Краснослободск;Мордовия Республика
+gorod-ruzaevka-mordoviya-resp;mordoviya-resp;Город Рузаевка;Мордовия Республика
+gorod-temnikov;mordoviya-resp;Город Темников;Мордовия Республика
+gorod-olekminsk;sakha-yakutiya-resp;Город Олекминск;Саха (Якутия) Республика
+gorod-yakutsk;sakha-yakutiya-resp;Город Якутск;Саха (Якутия) Республика
+gorod-neryungri;sakha-yakutiya-resp;Город Нерюнгри;Саха (Якутия) Республика
+gorod-neryungri-sakha-yakutiya-resp;sakha-yakutiya-resp;Город Нерюнгри;Саха (Якутия) Республика
+gorod-aldan;sakha-yakutiya-resp;Город Алдан;Саха (Якутия) Республика
+gorod-tommot;sakha-yakutiya-resp;Город Томмот;Саха (Якутия) Республика
+gorod-verkhoyansk;sakha-yakutiya-resp;Город Верхоянск;Саха (Якутия) Республика
+gorod-vilyuysk;sakha-yakutiya-resp;Город Вилюйск;Саха (Якутия) Республика
+gorod-lensk;sakha-yakutiya-resp;Город Ленск;Саха (Якутия) Республика
+gorod-mirnyy;sakha-yakutiya-resp;Город Мирный;Саха (Якутия) Республика
+gorod-udachnyy;sakha-yakutiya-resp;Город Удачный;Саха (Якутия) Республика
+gorod-nyurba;sakha-yakutiya-resp;Город Нюрба;Саха (Якутия) Республика
+gorod-olekminsk-sakha-yakutiya-resp;sakha-yakutiya-resp;Город Олекминск;Саха (Якутия) Республика
+gorod-srednekolymsk;sakha-yakutiya-resp;Город Среднеколымск;Саха (Якутия) Республика
+gorod-pokrovsk;sakha-yakutiya-resp;Город Покровск;Саха (Якутия) Республика
+gorod-vladikavkaz;severnaya-osetiya---alaniya-resp;Город Владикавказ;Северная Осетия - Алания Республика
+gorod-alagir;severnaya-osetiya---alaniya-resp;Город Алагир;Северная Осетия - Алания Республика
+gorod-ardon;severnaya-osetiya---alaniya-resp;Город Ардон;Северная Осетия - Алания Республика
+gorod-digora;severnaya-osetiya---alaniya-resp;Город Дигора;Северная Осетия - Алания Республика
+gorod-mozdok;severnaya-osetiya---alaniya-resp;Город Моздок;Северная Осетия - Алания Республика
+gorod-beslan;severnaya-osetiya---alaniya-resp;Город Беслан;Северная Осетия - Алания Республика
+gorod-kazan;tatarstan-resp;Город Казань;Татарстан Республика
+gorod-naberezhnye-chelny;tatarstan-resp;Город Набережные Челны;Татарстан Республика
+gorod-agryz;tatarstan-resp;Город Агрыз;Татарстан Республика
+gorod-aznakaevo;tatarstan-resp;Город Азнакаево;Татарстан Республика
+gorod-almetevsk;tatarstan-resp;Город Альметьевск;Татарстан Республика
+gorod-arsk;tatarstan-resp;Город Арск;Татарстан Республика
+gorod-bavly;tatarstan-resp;Город Бавлы;Татарстан Республика
+gorod-bugulma;tatarstan-resp;Город Бугульма;Татарстан Республика
+gorod-buinsk;tatarstan-resp;Город Буинск;Татарстан Республика
+gorod-innopolis;tatarstan-resp;Город Иннополис;Татарстан Республика
+gorod-elabuga;tatarstan-resp;Город Елабуга;Татарстан Республика
+gorod-zainsk;tatarstan-resp;Город Заинск;Татарстан Республика
+gorod-zelenodolsk;tatarstan-resp;Город Зеленодольск;Татарстан Республика
+gorod-kukmor;tatarstan-resp;Город Кукмор;Татарстан Республика
+gorod-laishevo;tatarstan-resp;Город Лаишево;Татарстан Республика
+gorod-leninogorsk;tatarstan-resp;Город Лениногорск;Татарстан Республика
+gorod-mamadysh;tatarstan-resp;Город Мамадыш;Татарстан Республика
+gorod-mendeleevsk;tatarstan-resp;Город Менделеевск;Татарстан Республика
+gorod-menzelinsk;tatarstan-resp;Город Мензелинск;Татарстан Республика
+gorod-nizhnekamsk;tatarstan-resp;Город Нижнекамск;Татарстан Республика
+gorod-nurlat;tatarstan-resp;Город Нурлат;Татарстан Республика
+gorod-bolgar;tatarstan-resp;Город Болгар;Татарстан Республика
+gorod-tetyushi;tatarstan-resp;Город Тетюши;Татарстан Республика
+gorod-naberezhnye-chelny-tatarstan-resp;tatarstan-resp;Город Набережные Челны;Татарстан Республика
+gorod-chistopol;tatarstan-resp;Город Чистополь;Татарстан Республика
+gorod-kyzyl;tyva-resp;Город Кызыл;Тыва Республика
+gorod-ak-dovurak;tyva-resp;Город Ак-Довурак;Тыва Республика
+gorod-chadan;tyva-resp;Город Чадан;Тыва Республика
+gorod-turan;tyva-resp;Город Туран;Тыва Республика
+gorod-shagonar;tyva-resp;Город Шагонар;Тыва Республика
+gorod-izhevsk;udmurtskaya-resp;Город Ижевск;Удмуртская Республика
+gorod-sarapul;udmurtskaya-resp;Город Сарапул;Удмуртская Республика
+gorod-votkinsk;udmurtskaya-resp;Город Воткинск;Удмуртская Республика
+gorod-glazov;udmurtskaya-resp;Город Глазов;Удмуртская Республика
+gorod-mozhga;udmurtskaya-resp;Город Можга;Удмуртская Республика
+gorod-votkinsk-udmurtskaya-resp;udmurtskaya-resp;Город Воткинск;Удмуртская Республика
+gorod-glazov-udmurtskaya-resp;udmurtskaya-resp;Город Глазов;Удмуртская Республика
+gorod-kambarka;udmurtskaya-resp;Город Камбарка;Удмуртская Республика
+gorod-mozhga-udmurtskaya-resp;udmurtskaya-resp;Город Можга;Удмуртская Республика
+gorod-abakan;khakasiya-resp;Город Абакан;Хакасия Республика
+gorod-sayanogorsk;khakasiya-resp;Город Саяногорск;Хакасия Республика
+gorod-chernogorsk;khakasiya-resp;Город Черногорск;Хакасия Республика
+gorod-abaza;khakasiya-resp;Город Абаза;Хакасия Республика
+gorod-sorsk;khakasiya-resp;Город Сорск;Хакасия Республика
+gorod-abaza-khakasiya-resp;khakasiya-resp;Город Абаза;Хакасия Республика
+gorod-sorsk-khakasiya-resp;khakasiya-resp;Город Сорск;Хакасия Республика
+gorod-groznyy;chechenskaya-resp;Город Грозный;Чеченская Республика
+gorod-argun;chechenskaya-resp;Город Аргун;Чеченская Республика
+gorod-gudermes;chechenskaya-resp;Город Гудермес;Чеченская Республика
+gorod-kurchaloy;chechenskaya-resp;Город Курчалой;Чеченская Республика
+gorod-urus-martan;chechenskaya-resp;Город Урус-Мартан;Чеченская Республика
+gorod-shali;chechenskaya-resp;Город Шали;Чеченская Республика
+gorod-cheboksary;chuvashskaya-respublika-resp;Город Чебоксары;Чувашская Республика
+gorod-alatyr;chuvashskaya-respublika-resp;Город Алатырь;Чувашская Республика
+gorod-kanash;chuvashskaya-respublika-resp;Город Канаш;Чувашская Республика
+gorod-novocheboksarsk;chuvashskaya-respublika-resp;Город Новочебоксарск;Чувашская Республика
+gorod-shumerlya;chuvashskaya-respublika-resp;Город Шумерля;Чувашская Республика
+gorod-kozlovka;chuvashskaya-respublika-resp;Город Козловка;Чувашская Республика
+gorod-mariinskiy-posad;chuvashskaya-respublika-resp;Город Мариинский Посад;Чувашская Республика
+gorod-tsivilsk;chuvashskaya-respublika-resp;Город Цивильск;Чувашская Республика
+gorod-yadrin;chuvashskaya-respublika-resp;Город Ядрин;Чувашская Республика
+gorod-barnaul;altayskiy-kray;Город Барнаул;Алтайский край
+gorod-aleysk;altayskiy-kray;Город Алейск;Алтайский край
+gorod-belokurikha;altayskiy-kray;Город Белокуриха;Алтайский край
+gorod-biysk;altayskiy-kray;Город Бийск;Алтайский край
+gorod-kamen-na-obi;altayskiy-kray;Город Камень-на-Оби;Алтайский край
+gorod-novoaltaysk;altayskiy-kray;Город Новоалтайск;Алтайский край
+gorod-rubtsovsk;altayskiy-kray;Город Рубцовск;Алтайский край
+gorod-slavgorod;altayskiy-kray;Город Славгород;Алтайский край
+gorod-zarinsk;altayskiy-kray;Город Заринск;Алтайский край
+gorod-yarovoe;altayskiy-kray;Город Яровое;Алтайский край
+gorod-zmeinogorsk;altayskiy-kray;Город Змеиногорск;Алтайский край
+gorod-zmeinogorsk-altayskiy-kray;altayskiy-kray;Город Змеиногорск;Алтайский край
+gorod-kamen-na-obi-altayskiy-kray;altayskiy-kray;Город Камень-на-Оби;Алтайский край
+gorod-gornyak;altayskiy-kray;Город Горняк;Алтайский край
+gorod-krasnodar;krasnodarskiy-kray;Город Краснодар;Краснодарский край
+gorod-armavir;krasnodarskiy-kray;Город Армавир;Краснодарский край
+gorod-gelendzhik;krasnodarskiy-kray;Город Геленджик;Краснодарский край
+gorod-goryachiy-klyuch;krasnodarskiy-kray;Город Горячий Ключ;Краснодарский край
+gorod-kropotkin;krasnodarskiy-kray;Город Кропоткин;Краснодарский край
+gorod-novorossiysk;krasnodarskiy-kray;Город Новороссийск;Краснодарский край
+gorod-sochi;krasnodarskiy-kray;Город Сочи;Краснодарский край
+gorod-abinsk;krasnodarskiy-kray;Город Абинск;Краснодарский край
+gorod-anapa;krasnodarskiy-kray;Город Анапа;Краснодарский край
+gorod-apsheronsk;krasnodarskiy-kray;Город Апшеронск;Краснодарский край
+gorod-khadyzhensk;krasnodarskiy-kray;Город Хадыженск;Краснодарский край
+gorod-belorechensk;krasnodarskiy-kray;Город Белореченск;Краснодарский край
+gorod-gulkevichi;krasnodarskiy-kray;Город Гулькевичи;Краснодарский край
+gorod-eysk;krasnodarskiy-kray;Город Ейск;Краснодарский край
+gorod-kropotkin-krasnodarskiy-kray;krasnodarskiy-kray;Город Кропоткин;Краснодарский край
+gorod-korenovsk;krasnodarskiy-kray;Город Кореновск;Краснодарский край
+gorod-krymsk;krasnodarskiy-kray;Город Крымск;Краснодарский край
+gorod-kurganinsk;krasnodarskiy-kray;Город Курганинск;Краснодарский край
+gorod-labinsk;krasnodarskiy-kray;Город Лабинск;Краснодарский край
+gorod-novokubansk;krasnodarskiy-kray;Город Новокубанск;Краснодарский край
+gorod-primorsko-akhtarsk;krasnodarskiy-kray;Город Приморско-Ахтарск;Краснодарский край
+gorod-slavyansk-na-kubani;krasnodarskiy-kray;Город Славянск-на-Кубани;Краснодарский край
+gorod-temryuk;krasnodarskiy-kray;Город Темрюк;Краснодарский край
+gorod-timashevsk;krasnodarskiy-kray;Город Тимашевск;Краснодарский край
+gorod-tikhoretsk;krasnodarskiy-kray;Город Тихорецк;Краснодарский край
+gorod-tuapse;krasnodarskiy-kray;Город Туапсе;Краснодарский край
+gorod-ust-labinsk;krasnodarskiy-kray;Город Усть-Лабинск;Краснодарский край
+gorod-krasnoyarsk;krasnoyarskiy-kray;Город Красноярск;Красноярский край
+gorod-borodino;krasnoyarskiy-kray;Город Бородино;Красноярский край
+gorod-divnogorsk;krasnoyarskiy-kray;Город Дивногорск;Красноярский край
+gorod-zheleznogorsk;krasnoyarskiy-kray;Город Железногорск;Красноярский край
+gorod-krasnoyarsk-26;krasnoyarskiy-kray;Город Красноярск-26;Красноярский край
+gorod-zelenogorsk;krasnoyarskiy-kray;Город Зеленогорск;Красноярский край
+gorod-krasnoyarsk-45;krasnoyarskiy-kray;Город Красноярск-45;Красноярский край
+gorod-igarka;krasnoyarskiy-kray;Город Игарка;Красноярский край
+gorod-kayerkan;krasnoyarskiy-kray;Город Кайеркан;Красноярский край
+gorod-lesosibirsk;krasnoyarskiy-kray;Город Лесосибирск;Красноярский край
+gorod-norilsk;krasnoyarskiy-kray;Город Норильск;Красноярский край
+gorod-sosnovoborsk;krasnoyarskiy-kray;Город Сосновоборск;Красноярский край
+gorod-talnakh;krasnoyarskiy-kray;Город Талнах;Красноярский край
+gorod-achinsk;krasnoyarskiy-kray;Город Ачинск;Красноярский край
+gorod-bogotol;krasnoyarskiy-kray;Город Боготол;Красноярский край
+gorod-eniseysk;krasnoyarskiy-kray;Город Енисейск;Красноярский край
+gorod-zaozernyy;krasnoyarskiy-kray;Город Заозерный;Красноярский край
+gorod-kansk;krasnoyarskiy-kray;Город Канск;Красноярский край
+gorod-minusinsk;krasnoyarskiy-kray;Город Минусинск;Красноярский край
+gorod-nazarovo;krasnoyarskiy-kray;Город Назарово;Красноярский край
+gorod-sharypovo;krasnoyarskiy-kray;Город Шарыпово;Красноярский край
+gorod-achinsk-krasnoyarskiy-kray;krasnoyarskiy-kray;Город Ачинск;Красноярский край
+gorod-bogotol-krasnoyarskiy-kray;krasnoyarskiy-kray;Город Боготол;Красноярский край
+gorod-eniseysk-krasnoyarskiy-kray;krasnoyarskiy-kray;Город Енисейск;Красноярский край
+gorod-ilanskiy;krasnoyarskiy-kray;Город Иланский;Красноярский край
+gorod-kansk-krasnoyarskiy-kray;krasnoyarskiy-kray;Город Канск;Красноярский край
+gorod-kodinsk;krasnoyarskiy-kray;Город Кодинск;Красноярский край
+gorod-vostochnyy;krasnoyarskiy-kray;Город Восточный;Красноярский край
+gorod-artemovsk;krasnoyarskiy-kray;Город Артемовск;Красноярский край
+gorod-minusinsk-krasnoyarskiy-kray;krasnoyarskiy-kray;Город Минусинск;Красноярский край
+gorod-nazarovo-krasnoyarskiy-kray;krasnoyarskiy-kray;Город Назарово;Красноярский край
+gorod-zaozernyy-krasnoyarskiy-kray;krasnoyarskiy-kray;Город Заозерный;Красноярский край
+gorod-igarka-krasnoyarskiy-kray;krasnoyarskiy-kray;Город Игарка;Красноярский край
+gorod-uzhur;krasnoyarskiy-kray;Город Ужур;Красноярский край
+gorod-uyar;krasnoyarskiy-kray;Город Уяр;Красноярский край
+gorod-uyar-krasnoyarskiy-kray;krasnoyarskiy-kray;Город Уяр;Красноярский край
+gorod-sharypovo-krasnoyarskiy-kray;krasnoyarskiy-kray;Город Шарыпово;Красноярский край
+gorod-dudinka;krasnoyarskiy-kray;Город Дудинка;Красноярский край
+gorod-vladivostok;primorskiy-kray;Город Владивосток;Приморский край
+gorod-arsenev;primorskiy-kray;Город Арсеньев;Приморский край
+gorod-artem;primorskiy-kray;Город Артем;Приморский край
+gorod-nakhodka;primorskiy-kray;Город Находка;Приморский край
+gorod-partizansk;primorskiy-kray;Город Партизанск;Приморский край
+gorod-fokino;primorskiy-kray;Город Фокино;Приморский край
+gorod-bolshoy-kamen;primorskiy-kray;Город Большой Камень;Приморский край
+gorod-dalnegorsk;primorskiy-kray;Город Дальнегорск;Приморский край
+gorod-dalnerechensk;primorskiy-kray;Город Дальнереченск;Приморский край
+gorod-spassk-dalniy;primorskiy-kray;Город Спасск-Дальний;Приморский край
+gorod-ussuriysk;primorskiy-kray;Город Уссурийск;Приморский край
+gorod-gorod-ussuriysk;primorskiy-kray;Город Город Уссурийск;Приморский край
+gorod-lesozavodsk;primorskiy-kray;Город Лесозаводск;Приморский край
+gorod-stavropol;stavropolskiy-kray;Город Ставрополь;Ставропольский край
+gorod-essentuki;stavropolskiy-kray;Город Ессентуки;Ставропольский край
+gorod-zheleznovodsk;stavropolskiy-kray;Город Железноводск;Ставропольский край
+gorod-kislovodsk;stavropolskiy-kray;Город Кисловодск;Ставропольский край
+gorod-lermontov;stavropolskiy-kray;Город Лермонтов;Ставропольский край
+gorod-nevinnomyssk;stavropolskiy-kray;Город Невинномысск;Ставропольский край
+gorod-pyatigorsk;stavropolskiy-kray;Город Пятигорск;Ставропольский край
+gorod-georgievsk;stavropolskiy-kray;Город Георгиевск;Ставропольский край
+gorod-mineralnye-vody;stavropolskiy-kray;Город Минеральные Воды;Ставропольский край
+gorod-blagodarnyy;stavropolskiy-kray;Город Благодарный;Ставропольский край
+gorod-budennovsk;stavropolskiy-kray;Город Буденновск;Ставропольский край
+gorod-georgievsk-stavropolskiy-kray;stavropolskiy-kray;Город Георгиевск;Ставропольский край
+gorod-izobilnyy;stavropolskiy-kray;Город Изобильный;Ставропольский край
+gorod-ipatovo;stavropolskiy-kray;Город Ипатово;Ставропольский край
+gorod-novopavlovsk;stavropolskiy-kray;Город Новопавловск;Ставропольский край
+gorod-mineralnye-vody-stavropolskiy-kray;stavropolskiy-kray;Город Минеральные Воды;Ставропольский край
+gorod-mineralnye-vody-stavropolskiy-kray;stavropolskiy-kray;Город Минеральные Воды;Ставропольский край
+gorod-neftekumsk;stavropolskiy-kray;Город Нефтекумск;Ставропольский край
+gorod-novoaleksandrovsk;stavropolskiy-kray;Город Новоалександровск;Ставропольский край
+gorod-svetlograd;stavropolskiy-kray;Город Светлоград;Ставропольский край
+gorod-zelenokumsk;stavropolskiy-kray;Город Зеленокумск;Ставропольский край
+gorod-mikhaylovsk;stavropolskiy-kray;Город Михайловск;Ставропольский край
+gorod-khabarovsk;khabarovskiy-kray;Город Хабаровск;Хабаровский край
+gorod-amursk;khabarovskiy-kray;Город Амурск;Хабаровский край
+gorod-bikin;khabarovskiy-kray;Город Бикин;Хабаровский край
+gorod-komsomolsk-na-amure;khabarovskiy-kray;Город Комсомольск-на-Амуре;Хабаровский край
+gorod-nikolaevsk-na-amure;khabarovskiy-kray;Город Николаевск-на-Амуре;Хабаровский край
+gorod-sovetskaya-gavan;khabarovskiy-kray;Город Советская Гавань;Хабаровский край
+gorod-amursk-khabarovskiy-kray;khabarovskiy-kray;Город Амурск;Хабаровский край
+gorod-bikin-khabarovskiy-kray;khabarovskiy-kray;Город Бикин;Хабаровский край
+gorod-vyazemskiy;khabarovskiy-kray;Город Вяземский;Хабаровский край
+gorod-nikolaevsk-na-amure-khabarovskiy-kray;khabarovskiy-kray;Город Николаевск-на-Амуре;Хабаровский край
+gorod-sovetskaya-gavan-khabarovskiy-kray;khabarovskiy-kray;Город Советская Гавань;Хабаровский край
+gorod-uglegorsk;amurskaya-obl;Город Углегорск;Амурская обл
+gorod-blagoveschensk-amurskaya-obl;amurskaya-obl;Город Благовещенск;Амурская обл
+gorod-raychikhinsk;amurskaya-obl;Город Райчихинск;Амурская обл
+gorod-belogorsk;amurskaya-obl;Город Белогорск;Амурская обл
+gorod-zeya;amurskaya-obl;Город Зея;Амурская обл
+gorod-svobodnyy;amurskaya-obl;Город Свободный;Амурская обл
+gorod-tynda;amurskaya-obl;Город Тында;Амурская обл
+gorod-shimanovsk;amurskaya-obl;Город Шимановск;Амурская обл
+gorod-uglegorsk-amurskaya-obl;amurskaya-obl;Город Углегорск;Амурская обл
+gorod-tsiolkovskiy;amurskaya-obl;Город Циолковский;Амурская обл
+gorod-tsiolkovskiy-amurskaya-obl;amurskaya-obl;Город Циолковский;Амурская обл
+gorod-zavitinsk;amurskaya-obl;Город Завитинск;Амурская обл
+gorod-skovorodino;amurskaya-obl;Город Сковородино;Амурская обл
+gorod-arkhangelsk;arkhangelskaya-obl;Город Архангельск;Архангельская обл
+gorod-mirnyy-arkhangelskaya-obl;arkhangelskaya-obl;Город Мирный;Архангельская обл
+gorod-novodvinsk;arkhangelskaya-obl;Город Новодвинск;Архангельская обл
+gorod-severodvinsk;arkhangelskaya-obl;Город Северодвинск;Архангельская обл
+gorod-koryazhma;arkhangelskaya-obl;Город Коряжма;Архангельская обл
+gorod-velsk;arkhangelskaya-obl;Город Вельск;Архангельская обл
+gorod-kargopol;arkhangelskaya-obl;Город Каргополь;Архангельская обл
+gorod-kotlas;arkhangelskaya-obl;Город Котлас;Архангельская обл
+gorod-solvychegodsk;arkhangelskaya-obl;Город Сольвычегодск;Архангельская обл
+gorod-mezen;arkhangelskaya-obl;Город Мезень;Архангельская обл
+gorod-nyandoma;arkhangelskaya-obl;Город Няндома;Архангельская обл
+gorod-onega;arkhangelskaya-obl;Город Онега;Архангельская обл
+gorod-shenkursk;arkhangelskaya-obl;Город Шенкурск;Архангельская обл
+gorod-astrakhan;astrakhanskaya-obl;Город Астрахань;Астраханская обл
+gorod-znamensk;astrakhanskaya-obl;Город Знаменск;Астраханская обл
+gorod-akhtubinsk;astrakhanskaya-obl;Город Ахтубинск;Астраханская обл
+gorod-akhtubinsk-7;astrakhanskaya-obl;Город Ахтубинск-7;Астраханская обл
+gorod-akhtubinsk-7-astrakhanskaya-obl;astrakhanskaya-obl;Город Ахтубинск 7;Астраханская обл
+gorod-kamyzyak;astrakhanskaya-obl;Город Камызяк;Астраханская обл
+gorod-narimanov;astrakhanskaya-obl;Город Нариманов;Астраханская обл
+gorod-kharabali;astrakhanskaya-obl;Город Харабали;Астраханская обл
+gorod-belgorod;belgorodskaya-obl;Город Белгород;Белгородская обл
+gorod-staryy-oskol;belgorodskaya-obl;Город Старый Оскол;Белгородская обл
+gorod-shebekino;belgorodskaya-obl;Город Шебекино;Белгородская обл
+gorod-gubkin;belgorodskaya-obl;Город Губкин;Белгородская обл
+gorod-alekseevka;belgorodskaya-obl;Город Алексеевка;Белгородская обл
+gorod-valuyki;belgorodskaya-obl;Город Валуйки;Белгородская обл
+gorod-grayvoron;belgorodskaya-obl;Город Грайворон;Белгородская обл
+gorod-gubkin-belgorodskaya-obl;belgorodskaya-obl;Город Губкин;Белгородская обл
+gorod-korocha;belgorodskaya-obl;Город Короча;Белгородская обл
+gorod-biryuch;belgorodskaya-obl;Город Бирюч;Белгородская обл
+gorod-novyy-oskol;belgorodskaya-obl;Город Новый Оскол;Белгородская обл
+gorod-staryy-oskol-belgorodskaya-obl;belgorodskaya-obl;Город Старый Оскол;Белгородская обл
+gorod-shebekino-belgorodskaya-obl;belgorodskaya-obl;Город Шебекино;Белгородская обл
+gorod-stroitel;belgorodskaya-obl;Город Строитель;Белгородская обл
+gorod-bryansk;bryanskaya-obl;Город Брянск;Брянская обл
+gorod-seltso;bryanskaya-obl;Город Сельцо;Брянская обл
+gorod-klintsy;bryanskaya-obl;Город Клинцы;Брянская обл
+gorod-novozybkov;bryanskaya-obl;Город Новозыбков;Брянская обл
+gorod-fokino-bryanskaya-obl;bryanskaya-obl;Город Фокино;Брянская обл
+gorod-starodub;bryanskaya-obl;Город Стародуб;Брянская обл
+gorod-dyatkovo;bryanskaya-obl;Город Дятьково;Брянская обл
+gorod-fokino-bryanskaya-obl;bryanskaya-obl;Город Фокино;Брянская обл
+gorod-zhukovka;bryanskaya-obl;Город Жуковка;Брянская обл
+gorod-zlynka;bryanskaya-obl;Город Злынка;Брянская обл
+gorod-karachev;bryanskaya-obl;Город Карачев;Брянская обл
+gorod-mglin;bryanskaya-obl;Город Мглин;Брянская обл
+gorod-pochep;bryanskaya-obl;Город Почеп;Брянская обл
+gorod-sevsk;bryanskaya-obl;Город Севск;Брянская обл
+gorod-starodub-bryanskaya-obl;bryanskaya-obl;Город Стародуб;Брянская обл
+gorod-surazh;bryanskaya-obl;Город Сураж;Брянская обл
+gorod-trubchevsk;bryanskaya-obl;Город Трубчевск;Брянская обл
+gorod-unecha;bryanskaya-obl;Город Унеча;Брянская обл
+gorod-vladimir;vladimirskaya-obl;Город Владимир;Владимирская обл
+gorod-raduzhnyy;vladimirskaya-obl;Город Радужный;Владимирская обл
+gorod-gus-khrustalnyy;vladimirskaya-obl;Город Гусь-Хрустальный;Владимирская обл
+gorod-kovrov;vladimirskaya-obl;Город Ковров;Владимирская обл
+gorod-murom;vladimirskaya-obl;Город Муром;Владимирская обл
+gorod-aleksandrov;vladimirskaya-obl;Город Александров;Владимирская обл
+gorod-karabanovo;vladimirskaya-obl;Город Карабаново;Владимирская обл
+gorod-strunino;vladimirskaya-obl;Город Струнино;Владимирская обл
+gorod-vyazniki;vladimirskaya-obl;Город Вязники;Владимирская обл
+gorod-gorokhovets;vladimirskaya-obl;Город Гороховец;Владимирская обл
+gorod-gus-khrustalnyy-vladimirskaya-obl;vladimirskaya-obl;Город Гусь-Хрустальный;Владимирская обл
+gorod-kurlovo;vladimirskaya-obl;Город Курлово;Владимирская обл
+gorod-kameshkovo;vladimirskaya-obl;Город Камешково;Владимирская обл
+gorod-kirzhach;vladimirskaya-obl;Город Киржач;Владимирская обл
+gorod-kovrov-vladimirskaya-obl;vladimirskaya-obl;Город Ковров;Владимирская обл
+gorod-kolchugino;vladimirskaya-obl;Город Кольчугино;Владимирская обл
+gorod-melenki;vladimirskaya-obl;Город Меленки;Владимирская обл
+gorod-murom-vladimirskaya-obl;vladimirskaya-obl;Город Муром;Владимирская обл
+gorod-petushki;vladimirskaya-obl;Город Петушки;Владимирская обл
+gorod-kosterevo;vladimirskaya-obl;Город Костерево;Владимирская обл
+gorod-pokrov;vladimirskaya-obl;Город Покров;Владимирская обл
+gorod-sobinka;vladimirskaya-obl;Город Собинка;Владимирская обл
+gorod-lakinsk;vladimirskaya-obl;Город Лакинск;Владимирская обл
+gorod-sudogda;vladimirskaya-obl;Город Судогда;Владимирская обл
+gorod-suzdal;vladimirskaya-obl;Город Суздаль;Владимирская обл
+gorod-yurev-polskiy;vladimirskaya-obl;Город Юрьев-Польский;Владимирская обл
+gorod-volgograd;volgogradskaya-obl;Город Волгоград;Волгоградская обл
+gorod-volzhskiy;volgogradskaya-obl;Город Волжский;Волгоградская обл
+gorod-kamyshin;volgogradskaya-obl;Город Камышин;Волгоградская обл
+gorod-mikhaylovka;volgogradskaya-obl;Город Михайловка;Волгоградская обл
+gorod-uryupinsk;volgogradskaya-obl;Город Урюпинск;Волгоградская обл
+gorod-frolovo;volgogradskaya-obl;Город Фролово;Волгоградская обл
+gorod-dubovka;volgogradskaya-obl;Город Дубовка;Волгоградская обл
+gorod-zhirnovsk;volgogradskaya-obl;Город Жирновск;Волгоградская обл
+gorod-kalach-na-donu;volgogradskaya-obl;Город Калач-на-Дону;Волгоградская обл
+gorod-kamyshin-volgogradskaya-obl;volgogradskaya-obl;Город Камышин;Волгоградская обл
+gorod-petrov-val;volgogradskaya-obl;Город Петров Вал;Волгоградская обл
+gorod-kotelnikovo;volgogradskaya-obl;Город Котельниково;Волгоградская обл
+gorod-kotovo;volgogradskaya-obl;Город Котово;Волгоградская обл
+gorod-leninsk;volgogradskaya-obl;Город Ленинск;Волгоградская обл
+gorod-mikhaylovka-volgogradskaya-obl;volgogradskaya-obl;Город Михайловка;Волгоградская обл
+gorod-nikolaevsk;volgogradskaya-obl;Город Николаевск;Волгоградская обл
+gorod-novoanninskiy;volgogradskaya-obl;Город Новоаннинский;Волгоградская обл
+gorod-pallasovka;volgogradskaya-obl;Город Палласовка;Волгоградская обл
+gorod-serafimovich;volgogradskaya-obl;Город Серафимович;Волгоградская обл
+gorod-krasnoslobodsk-volgogradskaya-obl;volgogradskaya-obl;Город Краснослободск;Волгоградская обл
+gorod-surovikino;volgogradskaya-obl;Город Суровикино;Волгоградская обл
+gorod-uryupinsk-volgogradskaya-obl;volgogradskaya-obl;Город Урюпинск;Волгоградская обл
+gorod-frolovo-volgogradskaya-obl;volgogradskaya-obl;Город Фролово;Волгоградская обл
+gorod-vologda;vologodskaya-obl;Город Вологда;Вологодская обл
+gorod-cherepovets;vologodskaya-obl;Город Череповец;Вологодская обл
+gorod-babaevo;vologodskaya-obl;Город Бабаево;Вологодская обл
+gorod-belozersk;vologodskaya-obl;Город Белозерск;Вологодская обл
+gorod-velikiy-ustyug;vologodskaya-obl;Город Великий Устюг;Вологодская обл
+gorod-krasavino;vologodskaya-obl;Город Красавино;Вологодская обл
+gorod-krasavino-vologodskaya-obl;vologodskaya-obl;Город Красавино;Вологодская обл
+gorod-vytegra;vologodskaya-obl;Город Вытегра;Вологодская обл
+gorod-gryazovets;vologodskaya-obl;Город Грязовец;Вологодская обл
+gorod-kirillov;vologodskaya-obl;Город Кириллов;Вологодская обл
+gorod-nikolsk;vologodskaya-obl;Город Никольск;Вологодская обл
+gorod-sokol;vologodskaya-obl;Город Сокол;Вологодская обл
+gorod-kadnikov;vologodskaya-obl;Город Кадников;Вологодская обл
+gorod-totma;vologodskaya-obl;Город Тотьма;Вологодская обл
+gorod-ustyuzhna;vologodskaya-obl;Город Устюжна;Вологодская обл
+gorod-kharovsk;vologodskaya-obl;Город Харовск;Вологодская обл
+gorod-voronezh;voronezhskaya-obl;Город Воронеж;Воронежская обл
+gorod-liski;voronezhskaya-obl;Город Лиски;Воронежская обл
+gorod-novovoronezh;voronezhskaya-obl;Город Нововоронеж;Воронежская обл
+gorod-voronezh-45;voronezhskaya-obl;Город Воронеж-45;Воронежская обл
+gorod-bobrov;voronezhskaya-obl;Город Бобров;Воронежская обл
+gorod-boguchar;voronezhskaya-obl;Город Богучар;Воронежская обл
+gorod-borisoglebsk;voronezhskaya-obl;Город Борисоглебск;Воронежская обл
+gorod-buturlinovka;voronezhskaya-obl;Город Бутурлиновка;Воронежская обл
+gorod-kalach;voronezhskaya-obl;Город Калач;Воронежская обл
+gorod-liski-voronezhskaya-obl;voronezhskaya-obl;Город Лиски;Воронежская обл
+gorod-novokhopyorsk;voronezhskaya-obl;Город Новохопёрск;Воронежская обл
+gorod-novokhopersk;voronezhskaya-obl;Город Новохоперск;Воронежская обл
+gorod-ostrogozhsk;voronezhskaya-obl;Город Острогожск;Воронежская обл
+gorod-pavlovsk;voronezhskaya-obl;Город Павловск;Воронежская обл
+gorod-povorino;voronezhskaya-obl;Город Поворино;Воронежская обл
+gorod-rossosh;voronezhskaya-obl;Город Россошь;Воронежская обл
+gorod-semiluki;voronezhskaya-obl;Город Семилуки;Воронежская обл
+gorod-ertil;voronezhskaya-obl;Город Эртиль;Воронежская обл
+gorod-ivanovo;ivanovskaya-obl;Город Иваново;Ивановская обл
+gorod-kineshma;ivanovskaya-obl;Город Кинешма;Ивановская обл
+gorod-kokhma;ivanovskaya-obl;Город Кохма;Ивановская обл
+gorod-vichuga;ivanovskaya-obl;Город Вичуга;Ивановская обл
+gorod-gavrilov-posad;ivanovskaya-obl;Город Гаврилов Посад;Ивановская обл
+gorod-zavolzhsk;ivanovskaya-obl;Город Заволжск;Ивановская обл
+gorod-kineshma-ivanovskaya-obl;ivanovskaya-obl;Город Кинешма;Ивановская обл
+gorod-navoloki;ivanovskaya-obl;Город Наволоки;Ивановская обл
+gorod-komsomolsk;ivanovskaya-obl;Город Комсомольск;Ивановская обл
+gorod-privolzhsk;ivanovskaya-obl;Город Приволжск;Ивановская обл
+gorod-ples;ivanovskaya-obl;Город Плес;Ивановская обл
+gorod-puchezh;ivanovskaya-obl;Город Пучеж;Ивановская обл
+gorod-rodniki;ivanovskaya-obl;Город Родники;Ивановская обл
+gorod-teykovo;ivanovskaya-obl;Город Тейково;Ивановская обл
+gorod-furmanov;ivanovskaya-obl;Город Фурманов;Ивановская обл
+gorod-shuya;ivanovskaya-obl;Город Шуя;Ивановская обл
+gorod-yuzha;ivanovskaya-obl;Город Южа;Ивановская обл
+gorod-yurevets;ivanovskaya-obl;Город Юрьевец;Ивановская обл
+gorod-irkutsk-45;irkutskaya-obl;Город Иркутск-45;Иркутская обл
+gorod-sayansk;irkutskaya-obl;Город Саянск;Иркутская обл
+gorod-irkutsk;irkutskaya-obl;Город Иркутск;Иркутская обл
+gorod-angarsk;irkutskaya-obl;Город Ангарск;Иркутская обл
+gorod-bratsk;irkutskaya-obl;Город Братск;Иркутская обл
+gorod-bodaybo;irkutskaya-obl;Город Бодайбо;Иркутская обл
+gorod-zima;irkutskaya-obl;Город Зима;Иркутская обл
+gorod-nizhneudinsk;irkutskaya-obl;Город Нижнеудинск;Иркутская обл
+gorod-tayshet;irkutskaya-obl;Город Тайшет;Иркутская обл
+gorod-tulun;irkutskaya-obl;Город Тулун;Иркутская обл
+gorod-usole-sibirskoe;irkutskaya-obl;Город Усолье-Сибирское;Иркутская обл
+gorod-ust-ilimsk;irkutskaya-obl;Город Усть-Илимск;Иркутская обл
+gorod-ust-kut;irkutskaya-obl;Город Усть-Кут;Иркутская обл
+gorod-cheremkhovo;irkutskaya-obl;Город Черемхово;Иркутская обл
+gorod-shelekhov;irkutskaya-obl;Город Шелехов;Иркутская обл
+gorod-svirsk;irkutskaya-obl;Город Свирск;Иркутская обл
+gorod-irkutsk-irkutskaya-obl;irkutskaya-obl;Город Иркутск;Иркутская обл
+gorod-angarsk-irkutskaya-obl;irkutskaya-obl;Город Ангарск;Иркутская обл
+gorod-bodaybo-irkutskaya-obl;irkutskaya-obl;Город Бодайбо;Иркутская обл
+gorod-bratsk-irkutskaya-obl;irkutskaya-obl;Город Братск;Иркутская обл
+gorod-vikhorevka;irkutskaya-obl;Город Вихоревка;Иркутская обл
+gorod-zima-irkutskaya-obl;irkutskaya-obl;Город Зима;Иркутская обл
+gorod-kirensk;irkutskaya-obl;Город Киренск;Иркутская обл
+gorod-zheleznogorsk-ilimskiy;irkutskaya-obl;Город Железногорск-Илимский;Иркутская обл
+gorod-nizhneudinsk-irkutskaya-obl;irkutskaya-obl;Город Нижнеудинск;Иркутская обл
+gorod-alzamay;irkutskaya-obl;Город Алзамай;Иркутская обл
+gorod-slyudyanka;irkutskaya-obl;Город Слюдянка;Иркутская обл
+gorod-baykalsk;irkutskaya-obl;Город Байкальск;Иркутская обл
+gorod-tayshet-irkutskaya-obl;irkutskaya-obl;Город Тайшет;Иркутская обл
+gorod-biryusinsk;irkutskaya-obl;Город Бирюсинск;Иркутская обл
+gorod-tulun-irkutskaya-obl;irkutskaya-obl;Город Тулун;Иркутская обл
+gorod-usole-sibirskoe-irkutskaya-obl;irkutskaya-obl;Город Усолье-Сибирское;Иркутская обл
+gorod-ust-ilimsk-irkutskaya-obl;irkutskaya-obl;Город Усть-Илимск;Иркутская обл
+gorod-ust-kut-irkutskaya-obl;irkutskaya-obl;Город Усть-Кут;Иркутская обл
+gorod-cheremkhovo-irkutskaya-obl;irkutskaya-obl;Город Черемхово;Иркутская обл
+gorod-svirsk-irkutskaya-obl;irkutskaya-obl;Город Свирск;Иркутская обл
+gorod-shelekhov-irkutskaya-obl;irkutskaya-obl;Город Шелехов;Иркутская обл
+gorod-kaliningrad;kaliningradskaya-obl;Город Калининград;Калининградская обл
+gorod-baltiysk;kaliningradskaya-obl;Город Балтийск;Калининградская обл
+gorod-pionerskiy;kaliningradskaya-obl;Город Пионерский;Калининградская обл
+gorod-svetlogorsk;kaliningradskaya-obl;Город Светлогорск;Калининградская обл
+gorod-svetlyy;kaliningradskaya-obl;Город Светлый;Калининградская обл
+gorod-sovetsk;kaliningradskaya-obl;Город Советск;Калининградская обл
+gorod-ladushkin;kaliningradskaya-obl;Город Ладушкин;Калининградская обл
+gorod-mamonovo;kaliningradskaya-obl;Город Мамоново;Калининградская обл
+gorod-bagrationovsk;kaliningradskaya-obl;Город Багратионовск;Калининградская обл
+gorod-ladushkin-kaliningradskaya-obl;kaliningradskaya-obl;Город Ладушкин;Калининградская обл
+gorod-mamonovo-kaliningradskaya-obl;kaliningradskaya-obl;Город Мамоново;Калининградская обл
+gorod-gvardeysk;kaliningradskaya-obl;Город Гвардейск;Калининградская обл
+gorod-gurevsk;kaliningradskaya-obl;Город Гурьевск;Калининградская обл
+gorod-gusev;kaliningradskaya-obl;Город Гусев;Калининградская обл
+gorod-zelenogradsk;kaliningradskaya-obl;Город Зеленоградск;Калининградская обл
+gorod-krasnoznamensk;kaliningradskaya-obl;Город Краснознаменск;Калининградская обл
+gorod-neman;kaliningradskaya-obl;Город Неман;Калининградская обл
+gorod-nesterov;kaliningradskaya-obl;Город Нестеров;Калининградская обл
+gorod-ozersk;kaliningradskaya-obl;Город Озерск;Калининградская обл
+gorod-polessk;kaliningradskaya-obl;Город Полесск;Калининградская обл
+gorod-pravdinsk;kaliningradskaya-obl;Город Правдинск;Калининградская обл
+gorod-slavsk;kaliningradskaya-obl;Город Славск;Калининградская обл
+gorod-chernyakhovsk;kaliningradskaya-obl;Город Черняховск;Калининградская обл
+gorod-baltiysk-kaliningradskaya-obl;kaliningradskaya-obl;Город Балтийск;Калининградская обл
+gorod-primorsk;kaliningradskaya-obl;Город Приморск;Калининградская обл
+gorod-svetlogorsk-kaliningradskaya-obl;kaliningradskaya-obl;Город Светлогорск;Калининградская обл
+gorod-kaluga;kaluzhskaya-obl;Город Калуга;Калужская обл
+gorod-obninsk;kaluzhskaya-obl;Город Обнинск;Калужская обл
+gorod-ermolino;kaluzhskaya-obl;Город Ермолино;Калужская обл
+gorod-borovsk;kaluzhskaya-obl;Город Боровск;Калужская обл
+gorod-balabanovo;kaluzhskaya-obl;Город Балабаново;Калужская обл
+gorod-ermolino-kaluzhskaya-obl;kaluzhskaya-obl;Город Ермолино;Калужская обл
+gorod-borovsk-1;kaluzhskaya-obl;Город Боровск-1;Калужская обл
+gorod-spas-demensk;kaluzhskaya-obl;Город Спас-Деменск;Калужская обл
+gorod-kondrovo;kaluzhskaya-obl;Город Кондрово;Калужская обл
+gorod-zhizdra;kaluzhskaya-obl;Город Жиздра;Калужская обл
+gorod-zhukov;kaluzhskaya-obl;Город Жуков;Калужская обл
+gorod-belousovo;kaluzhskaya-obl;Город Белоусово;Калужская обл
+gorod-kremenki;kaluzhskaya-obl;Город Кременки;Калужская обл
+gorod-kirov;kaluzhskaya-obl;Город Киров;Калужская обл
+gorod-kozelsk;kaluzhskaya-obl;Город Козельск;Калужская обл
+gorod-sosenskiy;kaluzhskaya-obl;Город Сосенский;Калужская обл
+gorod-lyudinovo;kaluzhskaya-obl;Город Людиново;Калужская обл
+gorod-maloyaroslavets;kaluzhskaya-obl;Город Малоярославец;Калужская обл
+gorod-medyn;kaluzhskaya-obl;Город Медынь;Калужская обл
+gorod-meschovsk;kaluzhskaya-obl;Город Мещовск;Калужская обл
+gorod-mosalsk;kaluzhskaya-obl;Город Мосальск;Калужская обл
+gorod-sukhinichi;kaluzhskaya-obl;Город Сухиничи;Калужская обл
+gorod-tarusa;kaluzhskaya-obl;Город Таруса;Калужская обл
+gorod-yukhnov;kaluzhskaya-obl;Город Юхнов;Калужская обл
+gorod-yukhnov-1;kaluzhskaya-obl;Город Юхнов-1;Калужская обл
+gorod-yukhnov-2;kaluzhskaya-obl;Город Юхнов-2;Калужская обл
+gorod-petropavlovsk-kamchatskiy;kamchatskiy-kray;Город Петропавловск-Камчатский;Камчатский край
+gorod-vilyuchinsk;kamchatskiy-kray;Город Вилючинск;Камчатский край
+gorod-elizovo;kamchatskiy-kray;Город Елизово;Камчатский край
+gorod-anzhero-sudzhensk;kemerovskaya-oblast-kuzbass-obl;Город Анжеро-Судженск;Кемеровская область
+gorod-berezovskiy;kemerovskaya-oblast-kuzbass-obl;Город Березовский;Кемеровская область
+gorod-kaltan;kemerovskaya-oblast-kuzbass-obl;Город Калтан;Кемеровская область
+gorod-kiselevsk;kemerovskaya-oblast-kuzbass-obl;Город Киселевск;Кемеровская область
+gorod-myski;kemerovskaya-oblast-kuzbass-obl;Город Мыски;Кемеровская область
+gorod-osinniki;kemerovskaya-oblast-kuzbass-obl;Город Осинники;Кемеровская область
+gorod-tayga;kemerovskaya-oblast-kuzbass-obl;Город Тайга;Кемеровская область
+gorod-kemerovo;kemerovskaya-oblast-kuzbass-obl;Город Кемерово;Кемеровская область
+gorod-leninsk-kuznetskiy;kemerovskaya-oblast-kuzbass-obl;Город Ленинск-Кузнецкий;Кемеровская область
+gorod-polysaevo;kemerovskaya-oblast-kuzbass-obl;Город Полысаево;Кемеровская область
+gorod-novokuznetsk;kemerovskaya-oblast-kuzbass-obl;Город Новокузнецк;Кемеровская область
+gorod-prokopevsk;kemerovskaya-oblast-kuzbass-obl;Город Прокопьевск;Кемеровская область
+gorod-yurga;kemerovskaya-oblast-kuzbass-obl;Город Юрга;Кемеровская область
+gorod-belovo;kemerovskaya-oblast-kuzbass-obl;Город Белово;Кемеровская область
+gorod-mezhdurechensk;kemerovskaya-oblast-kuzbass-obl;Город Междуреченск;Кемеровская область
+gorod-kemerovo-kemerovskaya-oblast-kuzbass-obl;kemerovskaya-oblast-kuzbass-obl;Город Кемерово;Кемеровская область
+gorod-belovo-kemerovskaya-oblast-kuzbass-obl;kemerovskaya-oblast-kuzbass-obl;Город Белово;Кемеровская область
+gorod-gurevsk-kemerovskaya-oblast-kuzbass-obl;kemerovskaya-oblast-kuzbass-obl;Город Гурьевск;Кемеровская область
+gorod-salair;kemerovskaya-oblast-kuzbass-obl;Город Салаир;Кемеровская область
+gorod-leninsk-kuznetskiy-kemerovskaya-oblast-kuzbass-obl;kemerovskaya-oblast-kuzbass-obl;Город Ленинск-Кузнецкий;Кемеровская область
+gorod-polysaevo-kemerovskaya-oblast-kuzbass-obl;kemerovskaya-oblast-kuzbass-obl;Город Полысаево;Кемеровская область
+gorod-mariinsk;kemerovskaya-oblast-kuzbass-obl;Город Мариинск;Кемеровская область
+gorod-novokuznetsk-kemerovskaya-oblast-kuzbass-obl;kemerovskaya-oblast-kuzbass-obl;Город Новокузнецк;Кемеровская область
+gorod-prokopevsk-kemerovskaya-oblast-kuzbass-obl;kemerovskaya-oblast-kuzbass-obl;Город Прокопьевск;Кемеровская область
+gorod-tashtagol;kemerovskaya-oblast-kuzbass-obl;Город Таштагол;Кемеровская область
+gorod-topki;kemerovskaya-oblast-kuzbass-obl;Город Топки;Кемеровская область
+gorod-yurga-kemerovskaya-oblast-kuzbass-obl;kemerovskaya-oblast-kuzbass-obl;Город Юрга;Кемеровская область
+gorod-kirov-kirovskaya-obl;kirovskaya-obl;Город Киров;Кировская обл
+gorod-kirovo-chepetsk;kirovskaya-obl;Город Кирово-Чепецк;Кировская обл
+gorod-kirovo-chepetsk-kirovskaya-obl;kirovskaya-obl;Город Кирово-Чепецк;Кировская обл
+gorod-belaya-kholunitsa;kirovskaya-obl;Город Белая Холуница;Кировская обл
+gorod-kirs;kirovskaya-obl;Город Кирс;Кировская обл
+gorod-vyatskie-polyany;kirovskaya-obl;Город Вятские Поляны;Кировская обл
+gorod-sosnovka;kirovskaya-obl;Город Сосновка;Кировская обл
+gorod-zuevka;kirovskaya-obl;Город Зуевка;Кировская обл
+gorod-kirovo-chepetsk-kirovskaya-obl;kirovskaya-obl;Город Кирово-Чепецк;Кировская обл
+gorod-kotelnich;kirovskaya-obl;Город Котельнич;Кировская обл
+gorod-luza;kirovskaya-obl;Город Луза;Кировская обл
+gorod-malmyzh;kirovskaya-obl;Город Малмыж;Кировская обл
+gorod-murashi;kirovskaya-obl;Город Мураши;Кировская обл
+gorod-nolinsk;kirovskaya-obl;Город Нолинск;Кировская обл
+gorod-omutninsk;kirovskaya-obl;Город Омутнинск;Кировская обл
+gorod-orlov;kirovskaya-obl;Город Орлов;Кировская обл
+gorod-khalturin;kirovskaya-obl;Город Халтурин;Кировская обл
+gorod-slobodskoy;kirovskaya-obl;Город Слободской;Кировская обл
+gorod-sovetsk-kirovskaya-obl;kirovskaya-obl;Город Советск;Кировская обл
+gorod-urzhum;kirovskaya-obl;Город Уржум;Кировская обл
+gorod-yaransk;kirovskaya-obl;Город Яранск;Кировская обл
+gorod-volgorechensk;kostromskaya-obl;Город Волгореченск;Костромская обл
+gorod-kostroma;kostromskaya-obl;Город Кострома;Костромская обл
+gorod-kostroma-kostromskaya-obl;kostromskaya-obl;Город Кострома;Костромская обл
+gorod-buy;kostromskaya-obl;Город Буй;Костромская обл
+gorod-galich;kostromskaya-obl;Город Галич;Костромская обл
+gorod-kologriv;kostromskaya-obl;Город Кологрив;Костромская обл
+gorod-makarev;kostromskaya-obl;Город Макарьев;Костромская обл
+gorod-manturovo;kostromskaya-obl;Город Мантурово;Костромская обл
+gorod-neya;kostromskaya-obl;Город Нея;Костромская обл
+gorod-nerekhta;kostromskaya-obl;Город Нерехта;Костромская обл
+gorod-soligalich;kostromskaya-obl;Город Солигалич;Костромская обл
+gorod-chukhloma;kostromskaya-obl;Город Чухлома;Костромская обл
+gorod-sharya;kostromskaya-obl;Город Шарья;Костромская обл
+gorod-kurgan;kurganskaya-obl;Город Курган;Курганская обл
+gorod-shadrinsk;kurganskaya-obl;Город Шадринск;Курганская обл
+gorod-dalmatovo;kurganskaya-obl;Город Далматово;Курганская обл
+gorod-kataysk;kurganskaya-obl;Город Катайск;Курганская обл
+gorod-kurtamysh;kurganskaya-obl;Город Куртамыш;Курганская обл
+gorod-makushino;kurganskaya-obl;Город Макушино;Курганская обл
+gorod-petukhovo;kurganskaya-obl;Город Петухово;Курганская обл
+gorod-shumikha;kurganskaya-obl;Город Шумиха;Курганская обл
+gorod-schuche;kurganskaya-obl;Город Щучье;Курганская обл
+gorod-kursk;kurskaya-obl;Город Курск;Курская обл
+gorod-kurchatov;kurskaya-obl;Город Курчатов;Курская обл
+gorod-zheleznogorsk-kurskaya-obl;kurskaya-obl;Город Железногорск;Курская обл
+gorod-lgov;kurskaya-obl;Город Льгов;Курская обл
+gorod-schigry;kurskaya-obl;Город Щигры;Курская обл
+gorod-dmitriev;kurskaya-obl;Город Дмитриев;Курская обл
+gorod-dmitriev-lgovskiy;kurskaya-obl;Город Дмитриев-Льговский;Курская обл
+gorod-kurchatov-kurskaya-obl;kurskaya-obl;Город Курчатов;Курская обл
+gorod-lgov-kurskaya-obl;kurskaya-obl;Город Льгов;Курская обл
+gorod-oboyan;kurskaya-obl;Город Обоянь;Курская обл
+gorod-rylsk;kurskaya-obl;Город Рыльск;Курская обл
+gorod-sudzha;kurskaya-obl;Город Суджа;Курская обл
+gorod-fatezh;kurskaya-obl;Город Фатеж;Курская обл
+gorod-schigry-kurskaya-obl;kurskaya-obl;Город Щигры;Курская обл
+gorod-sertolovo;leningradskaya-obl;Город Сертолово;Ленинградская обл
+gorod-ivangorod;leningradskaya-obl;Город Ивангород;Ленинградская обл
+gorod-pikalevo;leningradskaya-obl;Город Пикалево;Ленинградская обл
+gorod-sosnovyy-bor;leningradskaya-obl;Город Сосновый Бор;Ленинградская обл
+gorod-boksitogorsk;leningradskaya-obl;Город Бокситогорск;Ленинградская обл
+gorod-pikalevo-leningradskaya-obl;leningradskaya-obl;Город Пикалево;Ленинградская обл
+gorod-volosovo;leningradskaya-obl;Город Волосово;Ленинградская обл
+gorod-volosovo-leningradskaya-obl;leningradskaya-obl;Город Волосово;Ленинградская обл
+gorod-volkhov;leningradskaya-obl;Город Волхов;Ленинградская обл
+gorod-novaya-ladoga;leningradskaya-obl;Город Новая Ладога;Ленинградская обл
+gorod-syasstroy;leningradskaya-obl;Город Сясьстрой;Ленинградская обл
+gorod-vsevolozhsk;leningradskaya-obl;Город Всеволожск;Ленинградская обл
+gorod-sertolovo-leningradskaya-obl;leningradskaya-obl;Город Сертолово;Ленинградская обл
+gorod-kudrovo;leningradskaya-obl;Город Кудрово;Ленинградская обл
+gorod-murino;leningradskaya-obl;Город Мурино;Ленинградская обл
+gorod-vyborg;leningradskaya-obl;Город Выборг;Ленинградская обл
+gorod-vysotsk;leningradskaya-obl;Город Высоцк;Ленинградская обл
+gorod-kamennogorsk;leningradskaya-obl;Город Каменногорск;Ленинградская обл
+gorod-primorsk-leningradskaya-obl;leningradskaya-obl;Город Приморск;Ленинградская обл
+gorod-svetogorsk;leningradskaya-obl;Город Светогорск;Ленинградская обл
+gorod-gatchina;leningradskaya-obl;Город Гатчина;Ленинградская обл
+gorod-kommunar;leningradskaya-obl;Город Коммунар;Ленинградская обл
+gorod-kingisepp;leningradskaya-obl;Город Кингисепп;Ленинградская обл
+gorod-ivangorod-leningradskaya-obl;leningradskaya-obl;Город Ивангород;Ленинградская обл
+gorod-kirishi;leningradskaya-obl;Город Кириши;Ленинградская обл
+gorod-kirovsk;leningradskaya-obl;Город Кировск;Ленинградская обл
+gorod-otradnoe;leningradskaya-obl;Город Отрадное;Ленинградская обл
+gorod-shlisselburg;leningradskaya-obl;Город Шлиссельбург;Ленинградская обл
+gorod-lodeynoe-pole;leningradskaya-obl;Город Лодейное Поле;Ленинградская обл
+gorod-luga;leningradskaya-obl;Город Луга;Ленинградская обл
+gorod-podporozhe;leningradskaya-obl;Город Подпорожье;Ленинградская обл
+gorod-priozersk;leningradskaya-obl;Город Приозерск;Ленинградская обл
+gorod-slantsy;leningradskaya-obl;Город Сланцы;Ленинградская обл
+gorod-tikhvin;leningradskaya-obl;Город Тихвин;Ленинградская обл
+gorod-tosno;leningradskaya-obl;Город Тосно;Ленинградская обл
+gorod-nikolskoe;leningradskaya-obl;Город Никольское;Ленинградская обл
+gorod-lyuban;leningradskaya-obl;Город Любань;Ленинградская обл
+gorod-lipetsk;lipetskaya-obl;Город Липецк;Липецкая обл
+gorod-elets;lipetskaya-obl;Город Елец;Липецкая обл
+gorod-gryazi;lipetskaya-obl;Город Грязи;Липецкая обл
+gorod-dankov;lipetskaya-obl;Город Данков;Липецкая обл
+gorod-elets-lipetskaya-obl;lipetskaya-obl;Город Елец;Липецкая обл
+gorod-zadonsk;lipetskaya-obl;Город Задонск;Липецкая обл
+gorod-lebedyan;lipetskaya-obl;Город Лебедянь;Липецкая обл
+gorod-usman;lipetskaya-obl;Город Усмань;Липецкая обл
+gorod-chaplygin;lipetskaya-obl;Город Чаплыгин;Липецкая обл
+gorod-magadan;magadanskaya-obl;Город Магадан;Магаданская обл
+gorod-susuman;magadanskaya-obl;Город Сусуман;Магаданская обл
+gorod-domodedovo;moskovskaya-obl;Город Домодедово;Московская обл
+gorod-bronnitsy;moskovskaya-obl;Город Бронницы;Московская обл
+gorod-dubna;moskovskaya-obl;Город Дубна;Московская обл
+gorod-zheleznodorozhnyy;moskovskaya-obl;Город Железнодорожный;Московская обл
+gorod-zhukovskiy;moskovskaya-obl;Город Жуковский;Московская обл
+gorod-zvenigorod;moskovskaya-obl;Город Звенигород;Московская обл
+gorod-ivanteevka;moskovskaya-obl;Город Ивантеевка;Московская обл
+gorod-klimovsk;moskovskaya-obl;Город Климовск;Московская обл
+gorod-korolyov;moskovskaya-obl;Город Королёв;Московская обл
+gorod-kaliningrad-moskovskaya-obl;moskovskaya-obl;Город Калининград;Московская обл
+gorod-korolev;moskovskaya-obl;Город Королев;Московская обл
+gorod-krasnoarmeysk;moskovskaya-obl;Город Красноармейск;Московская обл
+gorod-krasnoznamensk-moskovskaya-obl;moskovskaya-obl;Город Краснознаменск;Московская обл
+gorod-lobnya;moskovskaya-obl;Город Лобня;Московская обл
+gorod-lytkarino;moskovskaya-obl;Город Лыткарино;Московская обл
+gorod-protvino;moskovskaya-obl;Город Протвино;Московская обл
+gorod-puschino;moskovskaya-obl;Город Пущино;Московская обл
+gorod-reutov;moskovskaya-obl;Город Реутов;Московская обл
+gorod-roshal;moskovskaya-obl;Город Рошаль;Московская обл
+gorod-troitsk;moskovskaya-obl;Город Троицк;Московская обл
+gorod-fryazino;moskovskaya-obl;Город Фрязино;Московская обл
+gorod-scherbinka;moskovskaya-obl;Город Щербинка;Московская обл
+gorod-elektrostal;moskovskaya-obl;Город Электросталь;Московская обл
+gorod-yubileynyy;moskovskaya-obl;Город Юбилейный;Московская обл
+gorod-dzerzhinskiy;moskovskaya-obl;Город Дзержинский;Московская обл
+gorod-podolsk;moskovskaya-obl;Город Подольск;Московская обл
+gorod-vidnoe;moskovskaya-obl;Город Видное;Московская обл
+gorod-orekhovo-zuevo;moskovskaya-obl;Город Орехово-Зуево;Московская обл
+gorod-drezna;moskovskaya-obl;Город Дрезна;Московская обл
+gorod-kolomna;moskovskaya-obl;Город Коломна;Московская обл
+gorod-serpukhov;moskovskaya-obl;Город Серпухов;Московская обл
+gorod-dolgoprudnyy;moskovskaya-obl;Город Долгопрудный;Московская обл
+gorod-khimki;moskovskaya-obl;Город Химки;Московская обл
+gorod-losino-petrovskiy;moskovskaya-obl;Город Лосино-Петровский;Московская обл
+gorod-kotelniki;moskovskaya-obl;Город Котельники;Московская обл
+gorod-elektrogorsk;moskovskaya-obl;Город Электрогорск;Московская обл
+gorod-domodedovo-moskovskaya-obl;moskovskaya-obl;Город Домодедово;Московская обл
+gorod-chernogolovka;moskovskaya-obl;Город Черноголовка;Московская обл
+gorod-gorodskoy-okrug-chernogolovka;moskovskaya-obl;Город Городской округ Черноголовка;Московская обл
+gorod-balashikha;moskovskaya-obl;Город Балашиха;Московская обл
+gorod-kashira;moskovskaya-obl;Город Кашира;Московская обл
+gorod-kashira-moskovskaya-obl;moskovskaya-obl;Город Кашира;Московская обл
+gorod-egorevsk;moskovskaya-obl;Город Егорьевск;Московская обл
+gorod-ozery;moskovskaya-obl;Город Озеры;Московская обл
+gorod-ozyory;moskovskaya-obl;Город Озёры;Московская обл
+gorod-mytischi;moskovskaya-obl;Город Мытищи;Московская обл
+gorod-ruza;moskovskaya-obl;Город Руза;Московская обл
+gorod-zaraysk;moskovskaya-obl;Город Зарайск;Московская обл
+gorod-pavlovskiy-posad;moskovskaya-obl;Город Павловский Посад;Московская обл
+gorod-lukhovitsy;moskovskaya-obl;Город Луховицы;Московская обл
+gorod-krasnogorsk;moskovskaya-obl;Город Красногорск;Московская обл
+gorod-lyubertsy;moskovskaya-obl;Город Люберцы;Московская обл
+gorod-shatura;moskovskaya-obl;Город Шатура;Московская обл
+gorod-naro-fominsk;moskovskaya-obl;Город Наро-Фоминск;Московская обл
+gorod-chekhov;moskovskaya-obl;Город Чехов;Московская обл
+gorod-stupino;moskovskaya-obl;Город Ступино;Московская обл
+gorod-klin;moskovskaya-obl;Город Клин;Московская обл
+gorod-mozhaysk;moskovskaya-obl;Город Можайск;Московская обл
+gorod-istra;moskovskaya-obl;Город Истра;Московская обл
+gorod-likino-dulyovo;moskovskaya-obl;Город Ликино-Дулёво;Московская обл
+gorod-taldom;moskovskaya-obl;Город Талдом;Московская обл
+gorod-noginsk;moskovskaya-obl;Город Ногинск;Московская обл
+gorod-dmitrov;moskovskaya-obl;Город Дмитров;Московская обл
+gorod-schyolkovo;moskovskaya-obl;Город Щёлково;Московская обл
+gorod-ramenskoe;moskovskaya-obl;Город Раменское;Московская обл
+gorod-voskresensk;moskovskaya-obl;Город Воскресенск;Московская обл
+gorod-solnechnogorsk;moskovskaya-obl;Город Солнечногорск;Московская обл
+gorod-volokolamsk;moskovskaya-obl;Город Волоколамск;Московская обл
+gorod-pushkino;moskovskaya-obl;Город Пушкино;Московская обл
+gorod-sergiev-posad;moskovskaya-obl;Город Сергиев Посад;Московская обл
+gorod-odintsovo;moskovskaya-obl;Город Одинцово;Московская обл
+gorod-orekhovo-zuevo-moskovskaya-obl;moskovskaya-obl;Город Орехово-Зуево;Московская обл
+gorod-drezna-moskovskaya-obl;moskovskaya-obl;Город Дрезна;Московская обл
+gorod-kurovskoe;moskovskaya-obl;Город Куровское;Московская обл
+gorod-likino-dulyovo-moskovskaya-obl;moskovskaya-obl;Город Ликино-Дулёво;Московская обл
+gorod-balashikha-moskovskaya-obl;moskovskaya-obl;Город Балашиха;Московская обл
+gorod-volokolamsk-moskovskaya-obl;moskovskaya-obl;Город Волоколамск;Московская обл
+gorod-voskresensk-moskovskaya-obl;moskovskaya-obl;Город Воскресенск;Московская обл
+gorod-dmitrov-moskovskaya-obl;moskovskaya-obl;Город Дмитров;Московская обл
+gorod-yakhroma;moskovskaya-obl;Город Яхрома;Московская обл
+gorod-domodedovo-moskovskaya-obl;moskovskaya-obl;Город Домодедово;Московская обл
+gorod-domodedovo-moskovskaya-obl;moskovskaya-obl;Город Домодедово;Московская обл
+gorod-egorevsk-moskovskaya-obl;moskovskaya-obl;Город Егорьевск;Московская обл
+gorod-zaraysk-moskovskaya-obl;moskovskaya-obl;Город Зарайск;Московская обл
+gorod-istra-moskovskaya-obl;moskovskaya-obl;Город Истра;Московская обл
+gorod-dedovsk;moskovskaya-obl;Город Дедовск;Московская обл
+gorod-istra-1;moskovskaya-obl;Город Истра-1;Московская обл
+gorod-snegiri;moskovskaya-obl;Город Снегири;Московская обл
+gorod-kashira-moskovskaya-obl;moskovskaya-obl;Город Кашира;Московская обл
+gorod-ozherele;moskovskaya-obl;Город Ожерелье;Московская обл
+gorod-kashira-8;moskovskaya-obl;Город Кашира-8;Московская обл
+gorod-kashira-moskovskaya-obl;moskovskaya-obl;Город Кашира;Московская обл
+gorod-klin-moskovskaya-obl;moskovskaya-obl;Город Клин;Московская обл
+gorod-vysokovsk;moskovskaya-obl;Город Высоковск;Московская обл
+gorod-krasnogorsk-moskovskaya-obl;moskovskaya-obl;Город Красногорск;Московская обл
+gorod-moskovskiy;moskovskaya-obl;Город Московский;Московская обл
+gorod-vidnoe-moskovskaya-obl;moskovskaya-obl;Город Видное;Московская обл
+gorod-lukhovitsy-moskovskaya-obl;moskovskaya-obl;Город Луховицы;Московская обл
+gorod-lyubertsy-moskovskaya-obl;moskovskaya-obl;Город Люберцы;Московская обл
+gorod-kotelniki-moskovskaya-obl;moskovskaya-obl;Город Котельники;Московская обл
+gorod-mozhaysk-moskovskaya-obl;moskovskaya-obl;Город Можайск;Московская обл
+gorod-mytischi-moskovskaya-obl;moskovskaya-obl;Город Мытищи;Московская обл
+gorod-dolgoprudnyy-moskovskaya-obl;moskovskaya-obl;Город Долгопрудный;Московская обл
+gorod-naro-fominsk-moskovskaya-obl;moskovskaya-obl;Город Наро-Фоминск;Московская обл
+gorod-aprelevka;moskovskaya-obl;Город Апрелевка;Московская обл
+gorod-vereya;moskovskaya-obl;Город Верея;Московская обл
+gorod-gorodskoe-poselenie-naro-fominsk;moskovskaya-obl;Город Городское поселение Наро-Фоминск;Московская обл
+gorod-gorodskoe-poselenie-aprelevka;moskovskaya-obl;Город Городское поселение Апрелевка;Московская обл
+gorod-gorodskoe-poselenie-vereya;moskovskaya-obl;Город Городское поселение Верея;Московская обл
+gorod-gorodskoe-poselenie-kievskiy;moskovskaya-obl;Город Городское поселение Киевский;Московская обл
+gorod-gorodskoe-poselenie-kokoshkino;moskovskaya-obl;Город Городское поселение Кокошкино;Московская обл
+gorod-gorodskoe-poselenie-selyatino;moskovskaya-obl;Город Городское поселение Селятино;Московская обл
+gorod-gorodskoe-poselenie-kokoshkino-moskovskaya-obl;moskovskaya-obl;Город Городское поселение Кокошкино;Московская обл
+gorod-staraya-kupavna;moskovskaya-obl;Город Старая Купавна;Московская обл
+gorod-noginsk-moskovskaya-obl;moskovskaya-obl;Город Ногинск;Московская обл
+gorod-elektrougli;moskovskaya-obl;Город Электроугли;Московская обл
+gorod-chernogolovka-moskovskaya-obl;moskovskaya-obl;Город Черноголовка;Московская обл
+gorod-chernogolovka-moskovskaya-obl;moskovskaya-obl;Город Черноголовка;Московская обл
+gorod-staraya-kupavna-moskovskaya-obl;moskovskaya-obl;Город Старая Купавна;Московская обл
+gorod-golitsyno;moskovskaya-obl;Город Голицыно;Московская обл
+gorod-odintsovo-moskovskaya-obl;moskovskaya-obl;Город Одинцово;Московская обл
+gorod-golitsyno-moskovskaya-obl;moskovskaya-obl;Город Голицыно;Московская обл
+gorod-kubinka;moskovskaya-obl;Город Кубинка;Московская обл
+gorod-ozery-moskovskaya-obl;moskovskaya-obl;Город Озеры;Московская обл
+gorod-drezna-moskovskaya-obl;moskovskaya-obl;Город Дрезна;Московская обл
+gorod-kurovskoe-moskovskaya-obl;moskovskaya-obl;Город Куровское;Московская обл
+gorod-likino-dulevo;moskovskaya-obl;Город Ликино-Дулево;Московская обл
+gorod-drezna-moskovskaya-obl;moskovskaya-obl;Город Дрезна;Московская обл
+gorod-pavlovskiy-posad-moskovskaya-obl;moskovskaya-obl;Город Павловский Посад;Московская обл
+gorod-elektrogorsk-moskovskaya-obl;moskovskaya-obl;Город Электрогорск;Московская обл
+gorod-pushkino-moskovskaya-obl;moskovskaya-obl;Город Пушкино;Московская обл
+gorod-ramenskoe-moskovskaya-obl;moskovskaya-obl;Город Раменское;Московская обл
+gorod-ruza-moskovskaya-obl;moskovskaya-obl;Город Руза;Московская обл
+gorod-krasnozavodsk;moskovskaya-obl;Город Краснозаводск;Московская обл
+gorod-khotkovo;moskovskaya-obl;Город Хотьково;Московская обл
+gorod-peresvet;moskovskaya-obl;Город Пересвет;Московская обл
+gorod-sergiev-posad-moskovskaya-obl;moskovskaya-obl;Город Сергиев Посад;Московская обл
+gorod-sergiev-posad-7;moskovskaya-obl;Город Сергиев Посад-7;Московская обл
+gorod-serebryanye-prudy;moskovskaya-obl;Город Серебряные Пруды;Московская обл
+gorod-solnechnogorsk-2;moskovskaya-obl;Город Солнечногорск-2;Московская обл
+gorod-solnechnogorsk-7;moskovskaya-obl;Город Солнечногорск-7;Московская обл
+gorod-solnechnogorsk-25;moskovskaya-obl;Город Солнечногорск-25;Московская обл
+gorod-solnechnogorsk-30;moskovskaya-obl;Город Солнечногорск-30;Московская обл
+gorod-solnechnogorsk-moskovskaya-obl;moskovskaya-obl;Город Солнечногорск;Московская обл
+gorod-solnechnogorsk-2-moskovskaya-obl;moskovskaya-obl;Город Солнечногорск-2;Московская обл
+gorod-solnechnogorsk-7-moskovskaya-obl;moskovskaya-obl;Город Солнечногорск-7;Московская обл
+gorod-solnechnogorsk-25-moskovskaya-obl;moskovskaya-obl;Город Солнечногорск-25;Московская обл
+gorod-solnechnogorsk-30-moskovskaya-obl;moskovskaya-obl;Город Солнечногорск-30;Московская обл
+gorod-stupino-moskovskaya-obl;moskovskaya-obl;Город Ступино;Московская обл
+gorod-taldom-moskovskaya-obl;moskovskaya-obl;Город Талдом;Московская обл
+gorod-khimki-moskovskaya-obl;moskovskaya-obl;Город Химки;Московская обл
+gorod-skhodnya;moskovskaya-obl;Город Сходня;Московская обл
+gorod-chekhov-moskovskaya-obl;moskovskaya-obl;Город Чехов;Московская обл
+gorod-chekhov-2;moskovskaya-obl;Город Чехов-2;Московская обл
+gorod-chekhov-3;moskovskaya-obl;Город Чехов-3;Московская обл
+gorod-chekhov-7;moskovskaya-obl;Город Чехов-7;Московская обл
+gorod-chekhov-8;moskovskaya-obl;Город Чехов-8;Московская обл
+gorod-chekhov-1;moskovskaya-obl;Город Чехов-1;Московская обл
+gorod-chekhov-4;moskovskaya-obl;Город Чехов-4;Московская обл
+gorod-chekhov-5;moskovskaya-obl;Город Чехов-5;Московская обл
+gorod-chekhov-6;moskovskaya-obl;Город Чехов-6;Московская обл
+gorod-shatura-moskovskaya-obl;moskovskaya-obl;Город Шатура;Московская обл
+gorod-schelkovo;moskovskaya-obl;Город Щелково;Московская обл
+gorod-losino-petrovskiy-moskovskaya-obl;moskovskaya-obl;Город Лосино-Петровский;Московская обл
+gorod-sergiev-posad-moskovskaya-obl;moskovskaya-obl;Город Сергиев Посад;Московская обл
+gorod-khotkovo-moskovskaya-obl;moskovskaya-obl;Город Хотьково;Московская обл
+gorod-peresvet-moskovskaya-obl;moskovskaya-obl;Город Пересвет;Московская обл
+gorod-krasnozavodsk-moskovskaya-obl;moskovskaya-obl;Город Краснозаводск;Московская обл
+gorod-odintsovo-moskovskaya-obl;moskovskaya-obl;Город Одинцово;Московская обл
+gorod-golitsyno-moskovskaya-obl;moskovskaya-obl;Город Голицыно;Московская обл
+gorod-kubinka-moskovskaya-obl;moskovskaya-obl;Город Кубинка;Московская обл
+gorod-zvenigorod-moskovskaya-obl;moskovskaya-obl;Город Звенигород;Московская обл
+gorod-noginsk-moskovskaya-obl;moskovskaya-obl;Город Ногинск;Московская обл
+gorod-elektrougli-moskovskaya-obl;moskovskaya-obl;Город Электроугли;Московская обл
+gorod-staraya-kupavna-moskovskaya-obl;moskovskaya-obl;Город Старая Купавна;Московская обл
+gorod-beloozyorskiy;moskovskaya-obl;Город Белоозёрский;Московская обл
+gorod-dmitrov-moskovskaya-obl;moskovskaya-obl;Город Дмитров;Московская обл
+gorod-yakhroma-moskovskaya-obl;moskovskaya-obl;Город Яхрома;Московская обл
+gorod-istra-moskovskaya-obl;moskovskaya-obl;Город Истра;Московская обл
+gorod-dedovsk-moskovskaya-obl;moskovskaya-obl;Город Дедовск;Московская обл
+gorod-klin-moskovskaya-obl;moskovskaya-obl;Город Клин;Московская обл
+gorod-vysokovsk-moskovskaya-obl;moskovskaya-obl;Город Высоковск;Московская обл
+gorod-naro-fominsk-moskovskaya-obl;moskovskaya-obl;Город Наро-Фоминск;Московская обл
+gorod-vereya-moskovskaya-obl;moskovskaya-obl;Город Верея;Московская обл
+gorod-aprelevka-moskovskaya-obl;moskovskaya-obl;Город Апрелевка;Московская обл
+gorod-shatura-moskovskaya-obl;moskovskaya-obl;Город Шатура;Московская обл
+gorod-roshal-moskovskaya-obl;moskovskaya-obl;Город Рошаль;Московская обл
+gorod-pushkino-moskovskaya-obl;moskovskaya-obl;Город Пушкино;Московская обл
+gorod-krasnoarmeysk-moskovskaya-obl;moskovskaya-obl;Город Красноармейск;Московская обл
+gorod-ivanteevka-moskovskaya-obl;moskovskaya-obl;Город Ивантеевка;Московская обл
+gorod-kolomna-moskovskaya-obl;moskovskaya-obl;Город Коломна;Московская обл
+gorod-ozyory-moskovskaya-obl;moskovskaya-obl;Город Озёры;Московская обл
+gorod-murmansk;murmanskaya-obl;Город Мурманск;Мурманская обл
+gorod-apatity;murmanskaya-obl;Город Апатиты;Мурманская обл
+gorod-zaozersk;murmanskaya-obl;Город Заозерск;Мурманская обл
+gorod-kandalaksha;murmanskaya-obl;Город Кандалакша;Мурманская обл
+gorod-kirovsk-murmanskaya-obl;murmanskaya-obl;Город Кировск;Мурманская обл
+gorod-monchegorsk;murmanskaya-obl;Город Мончегорск;Мурманская обл
+gorod-olenegorsk;murmanskaya-obl;Город Оленегорск;Мурманская обл
+gorod-ostrovnoy;murmanskaya-obl;Город Островной;Мурманская обл
+gorod-polyarnye-zori;murmanskaya-obl;Город Полярные Зори;Мурманская обл
+gorod-polyarnyy;murmanskaya-obl;Город Полярный;Мурманская обл
+gorod-severomorsk;murmanskaya-obl;Город Североморск;Мурманская обл
+gorod-gadzhievo;murmanskaya-obl;Город Гаджиево;Мурманская обл
+gorod-snezhnogorsk;murmanskaya-obl;Город Снежногорск;Мурманская обл
+gorod-olenegorsk-1;murmanskaya-obl;Город Оленегорск-1;Мурманская обл
+gorod-olenegorsk-2;murmanskaya-obl;Город Оленегорск-2;Мурманская обл
+gorod-olenegorsk-4;murmanskaya-obl;Город Оленегорск-4;Мурманская обл
+gorod-kandalaksha-murmanskaya-obl;murmanskaya-obl;Город Кандалакша;Мурманская обл
+gorod-kovdor;murmanskaya-obl;Город Ковдор;Мурманская обл
+gorod-kola;murmanskaya-obl;Город Кола;Мурманская обл
+gorod-zapolyarnyy;murmanskaya-obl;Город Заполярный;Мурманская обл
+gorod-nizhniy-novgorod;nizhegorodskaya-gorkovskaya-obl;Город Нижний Новгород;Нижегородская обл
+gorod-gorkiy;nizhegorodskaya-gorkovskaya-obl;Город Горький;Нижегородская обл
+gorod-dzerzhinsk;nizhegorodskaya-gorkovskaya-obl;Город Дзержинск;Нижегородская обл
+gorod-sarov;nizhegorodskaya-gorkovskaya-obl;Город Саров;Нижегородская обл
+gorod-arzamas;nizhegorodskaya-gorkovskaya-obl;Город Арзамас;Нижегородская обл
+gorod-bor;nizhegorodskaya-gorkovskaya-obl;Город Бор;Нижегородская обл
+gorod-semenov;nizhegorodskaya-gorkovskaya-obl;Город Семенов;Нижегородская обл
+gorod-vyksa;nizhegorodskaya-gorkovskaya-obl;Город Выкса;Нижегородская обл
+gorod-pervomaysk;nizhegorodskaya-gorkovskaya-obl;Город Первомайск;Нижегородская обл
+gorod-shakhunya;nizhegorodskaya-gorkovskaya-obl;Город Шахунья;Нижегородская обл
+gorod-kulebaki;nizhegorodskaya-gorkovskaya-obl;Город Кулебаки;Нижегородская обл
+gorod-navashino;nizhegorodskaya-gorkovskaya-obl;Город Навашино;Нижегородская обл
+gorod-perevoz;nizhegorodskaya-gorkovskaya-obl;Город Перевоз;Нижегородская обл
+gorod-arzamas-nizhegorodskaya-gorkovskaya-obl;nizhegorodskaya-gorkovskaya-obl;Город Арзамас;Нижегородская обл
+gorod-balakhna;nizhegorodskaya-gorkovskaya-obl;Город Балахна;Нижегородская обл
+gorod-bogorodsk;nizhegorodskaya-gorkovskaya-obl;Город Богородск;Нижегородская обл
+gorod-bor-nizhegorodskaya-gorkovskaya-obl;nizhegorodskaya-gorkovskaya-obl;Город Бор;Нижегородская обл
+gorod-vetluga;nizhegorodskaya-gorkovskaya-obl;Город Ветлуга;Нижегородская обл
+gorod-volodarsk;nizhegorodskaya-gorkovskaya-obl;Город Володарск;Нижегородская обл
+gorod-vyksa-nizhegorodskaya-gorkovskaya-obl;nizhegorodskaya-gorkovskaya-obl;Город Выкса;Нижегородская обл
+gorod-gorodets;nizhegorodskaya-gorkovskaya-obl;Город Городец;Нижегородская обл
+gorod-zavolzhe;nizhegorodskaya-gorkovskaya-obl;Город Заволжье;Нижегородская обл
+gorod-knyaginino;nizhegorodskaya-gorkovskaya-obl;Город Княгинино;Нижегородская обл
+gorod-kstovo;nizhegorodskaya-gorkovskaya-obl;Город Кстово;Нижегородская обл
+gorod-kulebaki-nizhegorodskaya-gorkovskaya-obl;nizhegorodskaya-gorkovskaya-obl;Город Кулебаки;Нижегородская обл
+gorod-lukoyanov;nizhegorodskaya-gorkovskaya-obl;Город Лукоянов;Нижегородская обл
+gorod-lyskovo;nizhegorodskaya-gorkovskaya-obl;Город Лысково;Нижегородская обл
+gorod-navashino-nizhegorodskaya-gorkovskaya-obl;nizhegorodskaya-gorkovskaya-obl;Город Навашино;Нижегородская обл
+gorod-pavlovo;nizhegorodskaya-gorkovskaya-obl;Город Павлово;Нижегородская обл
+gorod-vorsma;nizhegorodskaya-gorkovskaya-obl;Город Ворсма;Нижегородская обл
+gorod-gorbatov;nizhegorodskaya-gorkovskaya-obl;Город Горбатов;Нижегородская обл
+gorod-pervomaysk-nizhegorodskaya-gorkovskaya-obl;nizhegorodskaya-gorkovskaya-obl;Город Первомайск;Нижегородская обл
+gorod-perevoz-nizhegorodskaya-gorkovskaya-obl;nizhegorodskaya-gorkovskaya-obl;Город Перевоз;Нижегородская обл
+gorod-semenov-nizhegorodskaya-gorkovskaya-obl;nizhegorodskaya-gorkovskaya-obl;Город Семенов;Нижегородская обл
+gorod-sergach;nizhegorodskaya-gorkovskaya-obl;Город Сергач;Нижегородская обл
+gorod-uren;nizhegorodskaya-gorkovskaya-obl;Город Урень;Нижегородская обл
+gorod-chkalovsk;nizhegorodskaya-gorkovskaya-obl;Город Чкаловск;Нижегородская обл
+gorod-shakhunya-nizhegorodskaya-gorkovskaya-obl;nizhegorodskaya-gorkovskaya-obl;Город Шахунья;Нижегородская обл
+gorod-velikiy-novgorod;novgorodskaya-obl;Город Великий Новгород;Новгородская обл
+gorod-velikiy-novgorod-novgorodskaya-obl;novgorodskaya-obl;Город Великий Новгород;Новгородская обл
+gorod-borovichi;novgorodskaya-obl;Город Боровичи;Новгородская обл
+gorod-valday;novgorodskaya-obl;Город Валдай;Новгородская обл
+gorod-malaya-vishera;novgorodskaya-obl;Город Малая Вишера;Новгородская обл
+gorod-okulovka;novgorodskaya-obl;Город Окуловка;Новгородская обл
+gorod-pestovo;novgorodskaya-obl;Город Пестово;Новгородская обл
+gorod-soltsy;novgorodskaya-obl;Город Сольцы;Новгородская обл
+gorod-soltsy-2;novgorodskaya-obl;Город Сольцы 2;Новгородская обл
+gorod-staraya-russa;novgorodskaya-obl;Город Старая Русса;Новгородская обл
+gorod-kholm;novgorodskaya-obl;Город Холм;Новгородская обл
+gorod-chudovo;novgorodskaya-obl;Город Чудово;Новгородская обл
+gorod-novosibirsk;novosibirskaya-obl;Город Новосибирск;Новосибирская обл
+gorod-berdsk;novosibirskaya-obl;Город Бердск;Новосибирская обл
+gorod-ob;novosibirskaya-obl;Город Обь;Новосибирская обл
+gorod-barabinsk;novosibirskaya-obl;Город Барабинск;Новосибирская обл
+gorod-iskitim;novosibirskaya-obl;Город Искитим;Новосибирская обл
+gorod-kuybyshev;novosibirskaya-obl;Город Куйбышев;Новосибирская обл
+gorod-tatarsk;novosibirskaya-obl;Город Татарск;Новосибирская обл
+gorod-barabinsk-novosibirskaya-obl;novosibirskaya-obl;Город Барабинск;Новосибирская обл
+gorod-bolotnoe;novosibirskaya-obl;Город Болотное;Новосибирская обл
+gorod-karasuk;novosibirskaya-obl;Город Карасук;Новосибирская обл
+gorod-kargat;novosibirskaya-obl;Город Каргат;Новосибирская обл
+gorod-kuybyshev-novosibirskaya-obl;novosibirskaya-obl;Город Куйбышев;Новосибирская обл
+gorod-kupino;novosibirskaya-obl;Город Купино;Новосибирская обл
+gorod-tatarsk-novosibirskaya-obl;novosibirskaya-obl;Город Татарск;Новосибирская обл
+gorod-toguchin;novosibirskaya-obl;Город Тогучин;Новосибирская обл
+gorod-cherepanovo;novosibirskaya-obl;Город Черепаново;Новосибирская обл
+gorod-chulym-3;novosibirskaya-obl;Город Чулым-3;Новосибирская обл
+gorod-chulym;novosibirskaya-obl;Город Чулым;Новосибирская обл
+gorod-omsk;omskaya-obl;Город Омск;Омская обл
+gorod-isilkul;omskaya-obl;Город Исилькуль;Омская обл
+gorod-kalachinsk;omskaya-obl;Город Калачинск;Омская обл
+gorod-nazyvaevsk;omskaya-obl;Город Называевск;Омская обл
+gorod-tara;omskaya-obl;Город Тара;Омская обл
+gorod-tyukalinsk;omskaya-obl;Город Тюкалинск;Омская обл
+gorod-orenburg;orenburgskaya-obl;Город Оренбург;Оренбургская обл
+gorod-mednogorsk;orenburgskaya-obl;Город Медногорск;Оренбургская обл
+gorod-novotroitsk;orenburgskaya-obl;Город Новотроицк;Оренбургская обл
+gorod-orsk;orenburgskaya-obl;Город Орск;Оренбургская обл
+gorod-buguruslan;orenburgskaya-obl;Город Бугуруслан;Оренбургская обл
+gorod-buzuluk;orenburgskaya-obl;Город Бузулук;Оренбургская обл
+gorod-gay;orenburgskaya-obl;Город Гай;Оренбургская обл
+gorod-kuvandyk;orenburgskaya-obl;Город Кувандык;Оренбургская обл
+gorod-sorochinsk;orenburgskaya-obl;Город Сорочинск;Оренбургская обл
+gorod-yasnyy;orenburgskaya-obl;Город Ясный;Оренбургская обл
+gorod-buguruslan-orenburgskaya-obl;orenburgskaya-obl;Город Бугуруслан;Оренбургская обл
+gorod-gay-orenburgskaya-obl;orenburgskaya-obl;Город Гай;Оренбургская обл
+gorod-sorochinsk-orenburgskaya-obl;orenburgskaya-obl;Город Сорочинск;Оренбургская обл
+gorod-yasnyy-orenburgskaya-obl;orenburgskaya-obl;Город Ясный;Оренбургская обл
+gorod-buzuluk-orenburgskaya-obl;orenburgskaya-obl;Город Бузулук;Оренбургская обл
+gorod-kuvandyk-orenburgskaya-obl;orenburgskaya-obl;Город Кувандык;Оренбургская обл
+gorod-sol-iletsk;orenburgskaya-obl;Город Соль-Илецк;Оренбургская обл
+gorod-abdulino;orenburgskaya-obl;Город Абдулино;Оренбургская обл
+gorod-oryol;orlovskaya-obl;Город Орёл;Орловская обл
+gorod-orel;orlovskaya-obl;Город Орел;Орловская обл
+gorod-livny;orlovskaya-obl;Город Ливны;Орловская обл
+gorod-mtsensk;orlovskaya-obl;Город Мценск;Орловская обл
+gorod-orel-orlovskaya-obl;orlovskaya-obl;Город Орел;Орловская обл
+gorod-bolkhov;orlovskaya-obl;Город Болхов;Орловская обл
+gorod-dmitrovsk;orlovskaya-obl;Город Дмитровск;Орловская обл
+gorod-livny-orlovskaya-obl;orlovskaya-obl;Город Ливны;Орловская обл
+gorod-maloarkhangelsk;orlovskaya-obl;Город Малоархангельск;Орловская обл
+gorod-mtsensk-orlovskaya-obl;orlovskaya-obl;Город Мценск;Орловская обл
+gorod-novosil;orlovskaya-obl;Город Новосиль;Орловская обл
+gorod-penza;penzenskaya-obl;Город Пенза;Пензенская обл
+gorod-zarechnyy;penzenskaya-obl;Город Заречный;Пензенская обл
+gorod-kuznetsk;penzenskaya-obl;Город Кузнецк;Пензенская обл
+gorod-kuznetsk-8;penzenskaya-obl;Город Кузнецк-8;Пензенская обл
+gorod-kuznetsk-12;penzenskaya-obl;Город Кузнецк-12;Пензенская обл
+gorod-spassk;penzenskaya-obl;Город Спасск;Пензенская обл
+gorod-bednodemyanovsk;penzenskaya-obl;Город Беднодемьяновск;Пензенская обл
+gorod-belinskiy;penzenskaya-obl;Город Белинский;Пензенская обл
+gorod-gorodische;penzenskaya-obl;Город Городище;Пензенская обл
+gorod-sursk;penzenskaya-obl;Город Сурск;Пензенская обл
+gorod-kamenka;penzenskaya-obl;Город Каменка;Пензенская обл
+gorod-kuznetsk-penzenskaya-obl;penzenskaya-obl;Город Кузнецк;Пензенская обл
+gorod-kuznetsk-12-penzenskaya-obl;penzenskaya-obl;Город Кузнецк-12;Пензенская обл
+gorod-kuznetsk-8-penzenskaya-obl;penzenskaya-obl;Город Кузнецк-8;Пензенская обл
+gorod-nizhniy-lomov;penzenskaya-obl;Город Нижний Ломов;Пензенская обл
+gorod-nikolsk-penzenskaya-obl;penzenskaya-obl;Город Никольск;Пензенская обл
+gorod-serdobsk;penzenskaya-obl;Город Сердобск;Пензенская обл
+gorod-perm;permskiy-prikame-kray;Город Пермь;Пермский край
+gorod-berezniki;permskiy-prikame-kray;Город Березники;Пермский край
+gorod-aleksandrovsk;permskiy-prikame-kray;Город Александровск;Пермский край
+gorod-gremyachinsk;permskiy-prikame-kray;Город Гремячинск;Пермский край
+gorod-gubakha;permskiy-prikame-kray;Город Губаха;Пермский край
+gorod-dobryanka;permskiy-prikame-kray;Город Добрянка;Пермский край
+gorod-kizel;permskiy-prikame-kray;Город Кизел;Пермский край
+gorod-krasnokamsk;permskiy-prikame-kray;Город Краснокамск;Пермский край
+gorod-kungur;permskiy-prikame-kray;Город Кунгур;Пермский край
+gorod-lysva;permskiy-prikame-kray;Город Лысьва;Пермский край
+gorod-solikamsk;permskiy-prikame-kray;Город Соликамск;Пермский край
+gorod-chaykovskiy;permskiy-prikame-kray;Город Чайковский;Пермский край
+gorod-chusovoy;permskiy-prikame-kray;Город Чусовой;Пермский край
+gorod-kudymkar;permskiy-prikame-kray;Город Кудымкар;Пермский край
+gorod-krasnokamsk-permskiy-prikame-kray;permskiy-prikame-kray;Город Краснокамск;Пермский край
+gorod-vereschagino;permskiy-prikame-kray;Город Верещагино;Пермский край
+gorod-gornozavodsk;permskiy-prikame-kray;Город Горнозаводск;Пермский край
+gorod-chermoz;permskiy-prikame-kray;Город Чермоз;Пермский край
+gorod-krasnovishersk;permskiy-prikame-kray;Город Красновишерск;Пермский край
+gorod-nytva;permskiy-prikame-kray;Город Нытва;Пермский край
+gorod-osa;permskiy-prikame-kray;Город Оса;Пермский край
+gorod-okhansk;permskiy-prikame-kray;Город Оханск;Пермский край
+gorod-ocher;permskiy-prikame-kray;Город Очер;Пермский край
+gorod-usole;permskiy-prikame-kray;Город Усолье;Пермский край
+gorod-cherdyn;permskiy-prikame-kray;Город Чердынь;Пермский край
+gorod-chernushka;permskiy-prikame-kray;Город Чернушка;Пермский край
+gorod-krasnokamsk-permskiy-prikame-kray;permskiy-prikame-kray;Город Краснокамск;Пермский край
+gorod-pskov;pskovskaya-obl;Город Псков;Псковская обл
+gorod-velikie-luki;pskovskaya-obl;Город Великие Луки;Псковская обл
+gorod-velikie-luki-1;pskovskaya-obl;Город Великие Луки-1;Псковская обл
+gorod-gdov;pskovskaya-obl;Город Гдов;Псковская обл
+gorod-dno;pskovskaya-obl;Город Дно;Псковская обл
+gorod-nevel;pskovskaya-obl;Город Невель;Псковская обл
+gorod-novorzhev;pskovskaya-obl;Город Новоржев;Псковская обл
+gorod-novosokolniki;pskovskaya-obl;Город Новосокольники;Псковская обл
+gorod-opochka;pskovskaya-obl;Город Опочка;Псковская обл
+gorod-ostrov;pskovskaya-obl;Город Остров;Псковская обл
+gorod-pechory;pskovskaya-obl;Город Печоры;Псковская обл
+gorod-porkhov;pskovskaya-obl;Город Порхов;Псковская обл
+gorod-pustoshka;pskovskaya-obl;Город Пустошка;Псковская обл
+gorod-pytalovo;pskovskaya-obl;Город Пыталово;Псковская обл
+gorod-sebezh;pskovskaya-obl;Город Себеж;Псковская обл
+gorod-rostov-na-donu;rostovskaya-obl;Город Ростов-на-Дону;Ростовская обл
+gorod-bataysk;rostovskaya-obl;Город Батайск;Ростовская обл
+gorod-volgodonsk;rostovskaya-obl;Город Волгодонск;Ростовская обл
+gorod-gukovo;rostovskaya-obl;Город Гуково;Ростовская обл
+gorod-donetsk;rostovskaya-obl;Город Донецк;Ростовская обл
+gorod-zverevo;rostovskaya-obl;Город Зверево;Ростовская обл
+gorod-kamensk-shakhtinskiy;rostovskaya-obl;Город Каменск-Шахтинский;Ростовская обл
+gorod-novocherkassk;rostovskaya-obl;Город Новочеркасск;Ростовская обл
+gorod-novoshakhtinsk;rostovskaya-obl;Город Новошахтинск;Ростовская обл
+gorod-taganrog;rostovskaya-obl;Город Таганрог;Ростовская обл
+gorod-shakhty;rostovskaya-obl;Город Шахты;Ростовская обл
+gorod-azov;rostovskaya-obl;Город Азов;Ростовская обл
+gorod-azov-rostovskaya-obl;rostovskaya-obl;Город Азов;Ростовская обл
+gorod-aksay;rostovskaya-obl;Город Аксай;Ростовская обл
+gorod-belaya-kalitva;rostovskaya-obl;Город Белая Калитва;Ростовская обл
+gorod-zernograd;rostovskaya-obl;Город Зерноград;Ростовская обл
+gorod-konstantinovsk;rostovskaya-obl;Город Константиновск;Ростовская обл
+gorod-krasnyy-sulin;rostovskaya-obl;Город Красный Сулин;Ростовская обл
+gorod-millerovo;rostovskaya-obl;Город Миллерово;Ростовская обл
+gorod-morozovsk;rostovskaya-obl;Город Морозовск;Ростовская обл
+gorod-proletarsk;rostovskaya-obl;Город Пролетарск;Ростовская обл
+gorod-salsk;rostovskaya-obl;Город Сальск;Ростовская обл
+gorod-semikarakorsk;rostovskaya-obl;Город Семикаракорск;Ростовская обл
+gorod-tsimlyansk;rostovskaya-obl;Город Цимлянск;Ростовская обл
+gorod-ryazan;ryazanskaya-obl;Город Рязань;Рязанская обл
+gorod-sasovo;ryazanskaya-obl;Город Сасово;Рязанская обл
+gorod-skopin;ryazanskaya-obl;Город Скопин;Рязанская обл
+gorod-kasimov;ryazanskaya-obl;Город Касимов;Рязанская обл
+gorod-ryazan-ryazanskaya-obl;ryazanskaya-obl;Город Рязань;Рязанская обл
+gorod-kasimov-ryazanskaya-obl;ryazanskaya-obl;Город Касимов;Рязанская обл
+gorod-spas-klepiki;ryazanskaya-obl;Город Спас-Клепики;Рязанская обл
+gorod-korablino;ryazanskaya-obl;Город Кораблино;Рязанская обл
+gorod-mikhaylov;ryazanskaya-obl;Город Михайлов;Рязанская обл
+gorod-novomichurinsk;ryazanskaya-obl;Город Новомичуринск;Рязанская обл
+gorod-rybnoe;ryazanskaya-obl;Город Рыбное;Рязанская обл
+gorod-ryazhsk;ryazanskaya-obl;Город Ряжск;Рязанская обл
+gorod-sasovo-ryazanskaya-obl;ryazanskaya-obl;Город Сасово;Рязанская обл
+gorod-skopin-ryazanskaya-obl;ryazanskaya-obl;Город Скопин;Рязанская обл
+gorod-spassk-ryazanskiy;ryazanskaya-obl;Город Спасск-Рязанский;Рязанская обл
+gorod-shatsk;ryazanskaya-obl;Город Шацк;Рязанская обл
+gorod-samara;samarskaya-obl;Город Самара;Самарская обл
+gorod-zhigulevsk;samarskaya-obl;Город Жигулевск;Самарская обл
+gorod-novokuybyshevsk;samarskaya-obl;Город Новокуйбышевск;Самарская обл
+gorod-oktyabrsk;samarskaya-obl;Город Октябрьск;Самарская обл
+gorod-otradnyy;samarskaya-obl;Город Отрадный;Самарская обл
+gorod-chapaevsk;samarskaya-obl;Город Чапаевск;Самарская обл
+gorod-tolyatti;samarskaya-obl;Город Тольятти;Самарская обл
+gorod-syzran;samarskaya-obl;Город Сызрань;Самарская обл
+gorod-pokhvistnevo;samarskaya-obl;Город Похвистнево;Самарская обл
+gorod-kinel;samarskaya-obl;Город Кинель;Самарская обл
+gorod-neftegorsk;samarskaya-obl;Город Нефтегорск;Самарская обл
+gorod-saratov;saratovskaya-obl;Город Саратов;Саратовская обл
+gorod-shikhany;saratovskaya-obl;Город Шиханы;Саратовская обл
+gorod-atkarsk;saratovskaya-obl;Город Аткарск;Саратовская обл
+gorod-balakovo;saratovskaya-obl;Город Балаково;Саратовская обл
+gorod-balashov;saratovskaya-obl;Город Балашов;Саратовская обл
+gorod-volsk;saratovskaya-obl;Город Вольск;Саратовская обл
+gorod-volsk-18;saratovskaya-obl;Город Вольск-18;Саратовская обл
+gorod-krasnoarmeysk-saratovskaya-obl;saratovskaya-obl;Город Красноармейск;Саратовская обл
+gorod-marks;saratovskaya-obl;Город Маркс;Саратовская обл
+gorod-petrovsk;saratovskaya-obl;Город Петровск;Саратовская обл
+gorod-pugachev;saratovskaya-obl;Город Пугачев;Саратовская обл
+gorod-rtischevo;saratovskaya-obl;Город Ртищево;Саратовская обл
+gorod-khvalynsk;saratovskaya-obl;Город Хвалынск;Саратовская обл
+gorod-engels;saratovskaya-obl;Город Энгельс;Саратовская обл
+gorod-engels-1;saratovskaya-obl;Город Энгельс-1;Саратовская обл
+gorod-engels-19;saratovskaya-obl;Город Энгельс-19;Саратовская обл
+gorod-engels-2;saratovskaya-obl;Город Энгельс-2;Саратовская обл
+gorod-arkadak;saratovskaya-obl;Город Аркадак;Саратовская обл
+gorod-balakovo-saratovskaya-obl;saratovskaya-obl;Город Балаково;Саратовская обл
+gorod-balashov-saratovskaya-obl;saratovskaya-obl;Город Балашов;Саратовская обл
+gorod-volsk-saratovskaya-obl;saratovskaya-obl;Город Вольск;Саратовская обл
+gorod-ershov;saratovskaya-obl;Город Ершов;Саратовская обл
+gorod-kalininsk;saratovskaya-obl;Город Калининск;Саратовская обл
+gorod-krasnoarmeysk-saratovskaya-obl;saratovskaya-obl;Город Красноармейск;Саратовская обл
+gorod-krasnyy-kut;saratovskaya-obl;Город Красный Кут;Саратовская обл
+gorod-marks-saratovskaya-obl;saratovskaya-obl;Город Маркс;Саратовская обл
+gorod-novouzensk;saratovskaya-obl;Город Новоузенск;Саратовская обл
+gorod-petrovsk-saratovskaya-obl;saratovskaya-obl;Город Петровск;Саратовская обл
+gorod-petrovsk-saratovskaya-obl;saratovskaya-obl;Город Петровск;Саратовская обл
+gorod-pugachev-saratovskaya-obl;saratovskaya-obl;Город Пугачев;Саратовская обл
+gorod-rtischevo-saratovskaya-obl;saratovskaya-obl;Город Ртищево;Саратовская обл
+gorod-khvalynsk-saratovskaya-obl;saratovskaya-obl;Город Хвалынск;Саратовская обл
+gorod-engels-saratovskaya-obl;saratovskaya-obl;Город Энгельс;Саратовская обл
+gorod-yuzhno-sakhalinsk;sakhalinskaya-obl;Город Южно-Сахалинск;Сахалинская обл
+gorod-aniva;sakhalinskaya-obl;Город Анива;Сахалинская обл
+gorod-dolinsk;sakhalinskaya-obl;Город Долинск;Сахалинская обл
+gorod-korsakov;sakhalinskaya-obl;Город Корсаков;Сахалинская обл
+gorod-kurilsk;sakhalinskaya-obl;Город Курильск;Сахалинская обл
+gorod-makarov;sakhalinskaya-obl;Город Макаров;Сахалинская обл
+gorod-nevelsk;sakhalinskaya-obl;Город Невельск;Сахалинская обл
+gorod-gornozavodsk-sakhalinskaya-obl;sakhalinskaya-obl;Город Горнозаводск;Сахалинская обл
+gorod-okha;sakhalinskaya-obl;Город Оха;Сахалинская обл
+gorod-poronaysk;sakhalinskaya-obl;Город Поронайск;Сахалинская обл
+gorod-severo-kurilsk;sakhalinskaya-obl;Город Северо-Курильск;Сахалинская обл
+gorod-krasnogorsk-sakhalinskaya-obl;sakhalinskaya-obl;Город Красногорск;Сахалинская обл
+gorod-tomari;sakhalinskaya-obl;Город Томари;Сахалинская обл
+gorod-uglegorsk-sakhalinskaya-obl;sakhalinskaya-obl;Город Углегорск;Сахалинская обл
+gorod-shakhtersk;sakhalinskaya-obl;Город Шахтерск;Сахалинская обл
+gorod-chekhov-sakhalinskaya-obl;sakhalinskaya-obl;Город Чехов;Сахалинская обл
+gorod-kholmsk;sakhalinskaya-obl;Город Холмск;Сахалинская обл
+gorod-chekhov-sakhalinskaya-obl;sakhalinskaya-obl;Город Чехов;Сахалинская обл
+gorod-aleksandrovsk-sakhalinskiy;sakhalinskaya-obl;Город Александровск-Сахалинский;Сахалинская обл
+gorod-ekaterinburg;sverdlovskaya-obl;Город Екатеринбург;Свердловская обл
+gorod-sverdlovsk;sverdlovskaya-obl;Город Свердловск;Свердловская обл
+gorod-asbest;sverdlovskaya-obl;Город Асбест;Свердловская обл
+gorod-berezovskiy-sverdlovskaya-obl;sverdlovskaya-obl;Город Березовский;Свердловская обл
+gorod-verkhnyaya-pyshma;sverdlovskaya-obl;Город Верхняя Пышма;Свердловская обл
+gorod-zarechnyy-sverdlovskaya-obl;sverdlovskaya-obl;Город Заречный;Свердловская обл
+gorod-ivdel;sverdlovskaya-obl;Город Ивдель;Свердловская обл
+gorod-karpinsk;sverdlovskaya-obl;Город Карпинск;Свердловская обл
+gorod-kachkanar;sverdlovskaya-obl;Город Качканар;Свердловская обл
+gorod-kirovgrad;sverdlovskaya-obl;Город Кировград;Свердловская обл
+gorod-krasnoturinsk;sverdlovskaya-obl;Город Краснотурьинск;Свердловская обл
+gorod-krasnouralsk;sverdlovskaya-obl;Город Красноуральск;Свердловская обл
+gorod-kushva;sverdlovskaya-obl;Город Кушва;Свердловская обл
+gorod-lesnoy;sverdlovskaya-obl;Город Лесной;Свердловская обл
+gorod-sverdlovsk-45;sverdlovskaya-obl;Город Свердловск-45;Свердловская обл
+gorod-nizhnyaya-tura;sverdlovskaya-obl;Город Нижняя Тура;Свердловская обл
+gorod-novouralsk;sverdlovskaya-obl;Город Новоуральск;Свердловская обл
+gorod-sverdlovsk-44;sverdlovskaya-obl;Город Свердловск-44;Свердловская обл
+gorod-pervouralsk;sverdlovskaya-obl;Город Первоуральск;Свердловская обл
+gorod-polevskoy;sverdlovskaya-obl;Город Полевской;Свердловская обл
+gorod-revda;sverdlovskaya-obl;Город Ревда;Свердловская обл
+gorod-severouralsk;sverdlovskaya-obl;Город Североуральск;Свердловская обл
+gorod-kamensk-uralskiy;sverdlovskaya-obl;Город Каменск-Уральский;Свердловская обл
+gorod-nizhniy-tagil;sverdlovskaya-obl;Город Нижний Тагил;Свердловская обл
+gorod-alapaevsk;sverdlovskaya-obl;Город Алапаевск;Свердловская обл
+gorod-artemovskiy;sverdlovskaya-obl;Город Артемовский;Свердловская обл
+gorod-bogdanovich;sverdlovskaya-obl;Город Богданович;Свердловская обл
+gorod-nizhnyaya-salda;sverdlovskaya-obl;Город Нижняя Салда;Свердловская обл
+gorod-verkhnyaya-salda;sverdlovskaya-obl;Город Верхняя Салда;Свердловская обл
+gorod-irbit;sverdlovskaya-obl;Город Ирбит;Свердловская обл
+gorod-kamyshlov;sverdlovskaya-obl;Город Камышлов;Свердловская обл
+gorod-krasnoufimsk;sverdlovskaya-obl;Город Красноуфимск;Свердловская обл
+gorod-nevyansk;sverdlovskaya-obl;Город Невьянск;Свердловская обл
+gorod-rezh;sverdlovskaya-obl;Город Реж;Свердловская обл
+gorod-serov;sverdlovskaya-obl;Город Серов;Свердловская обл
+gorod-sukhoy-log;sverdlovskaya-obl;Город Сухой Лог;Свердловская обл
+gorod-tavda;sverdlovskaya-obl;Город Тавда;Свердловская обл
+gorod-verkhniy-tagil;sverdlovskaya-obl;Город Верхний Тагил;Свердловская обл
+gorod-sredneuralsk;sverdlovskaya-obl;Город Среднеуральск;Свердловская обл
+gorod-volchansk;sverdlovskaya-obl;Город Волчанск;Свердловская обл
+gorod-verkhnyaya-tura;sverdlovskaya-obl;Город Верхняя Тура;Свердловская обл
+gorod-degtyarsk;sverdlovskaya-obl;Город Дегтярск;Свердловская обл
+gorod-tavda-sverdlovskaya-obl;sverdlovskaya-obl;Город Тавда;Свердловская обл
+gorod-nevyansk-sverdlovskaya-obl;sverdlovskaya-obl;Город Невьянск;Свердловская обл
+gorod-verkhnyaya-salda-sverdlovskaya-obl;sverdlovskaya-obl;Город Верхняя Салда;Свердловская обл
+gorod-artemovskiy-sverdlovskaya-obl;sverdlovskaya-obl;Город Артемовский;Свердловская обл
+gorod-bogdanovich-sverdlovskaya-obl;sverdlovskaya-obl;Город Богданович;Свердловская обл
+gorod-verkhoture;sverdlovskaya-obl;Город Верхотурье;Свердловская обл
+gorod-nevyansk-sverdlovskaya-obl;sverdlovskaya-obl;Город Невьянск;Свердловская обл
+gorod-nizhnie-sergi-3;sverdlovskaya-obl;Город Нижние Серги-3;Свердловская обл
+gorod-nizhnie-sergi;sverdlovskaya-obl;Город Нижние Серги;Свердловская обл
+gorod-mikhaylovsk-sverdlovskaya-obl;sverdlovskaya-obl;Город Михайловск;Свердловская обл
+gorod-novaya-lyalya;sverdlovskaya-obl;Город Новая Ляля;Свердловская обл
+gorod-rezh-sverdlovskaya-obl;sverdlovskaya-obl;Город Реж;Свердловская обл
+gorod-sukhoy-log-sverdlovskaya-obl;sverdlovskaya-obl;Город Сухой Лог;Свердловская обл
+gorod-sysert;sverdlovskaya-obl;Город Сысерть;Свердловская обл
+gorod-aramil;sverdlovskaya-obl;Город Арамиль;Свердловская обл
+gorod-talitsa;sverdlovskaya-obl;Город Талица;Свердловская обл
+gorod-turinsk;sverdlovskaya-obl;Город Туринск;Свердловская обл
+gorod-desnogorsk;smolenskaya-obl;Город Десногорск;Смоленская обл
+gorod-smolensk;smolenskaya-obl;Город Смоленск;Смоленская обл
+gorod-velizh;smolenskaya-obl;Город Велиж;Смоленская обл
+gorod-vyazma;smolenskaya-obl;Город Вязьма;Смоленская обл
+gorod-gagarin;smolenskaya-obl;Город Гагарин;Смоленская обл
+gorod-demidov;smolenskaya-obl;Город Демидов;Смоленская обл
+gorod-dorogobuzh;smolenskaya-obl;Город Дорогобуж;Смоленская обл
+gorod-dukhovschina;smolenskaya-obl;Город Духовщина;Смоленская обл
+gorod-elnya;smolenskaya-obl;Город Ельня;Смоленская обл
+gorod-pochinok;smolenskaya-obl;Город Починок;Смоленская обл
+gorod-roslavl;smolenskaya-obl;Город Рославль;Смоленская обл
+gorod-rudnya;smolenskaya-obl;Город Рудня;Смоленская обл
+gorod-safonovo;smolenskaya-obl;Город Сафоново;Смоленская обл
+gorod-sychevka;smolenskaya-obl;Город Сычевка;Смоленская обл
+gorod-yartsevo;smolenskaya-obl;Город Ярцево;Смоленская обл
+gorod-kotovsk;tambovskaya-obl;Город Котовск;Тамбовская обл
+gorod-morshansk;tambovskaya-obl;Город Моршанск;Тамбовская обл
+gorod-tambov;tambovskaya-obl;Город Тамбов;Тамбовская обл
+gorod-kirsanov;tambovskaya-obl;Город Кирсанов;Тамбовская обл
+gorod-michurinsk;tambovskaya-obl;Город Мичуринск;Тамбовская обл
+gorod-rasskazovo;tambovskaya-obl;Город Рассказово;Тамбовская обл
+gorod-uvarovo;tambovskaya-obl;Город Уварово;Тамбовская обл
+gorod-zherdevka;tambovskaya-obl;Город Жердевка;Тамбовская обл
+gorod-tver;tverskaya-obl;Город Тверь;Тверская обл
+gorod-torzhok;tverskaya-obl;Город Торжок;Тверская обл
+gorod-rzhev;tverskaya-obl;Город Ржев;Тверская обл
+gorod-nelidovo;tverskaya-obl;Город Нелидово;Тверская обл
+gorod-kimry;tverskaya-obl;Город Кимры;Тверская обл
+gorod-vyshniy-volochek;tverskaya-obl;Город Вышний Волочек;Тверская обл
+gorod-udomlya;tverskaya-obl;Город Удомля;Тверская обл
+gorod-ostashkov;tverskaya-obl;Город Осташков;Тверская обл
+gorod-kashin;tverskaya-obl;Город Кашин;Тверская обл
+gorod-andreapol;tverskaya-obl;Город Андреаполь;Тверская обл
+gorod-vesegonsk;tverskaya-obl;Город Весьегонск;Тверская обл
+gorod-krasnyy-kholm;tverskaya-obl;Город Красный Холм;Тверская обл
+gorod-zapadnaya-dvina;tverskaya-obl;Город Западная Двина;Тверская обл
+gorod-likhoslavl;tverskaya-obl;Город Лихославль;Тверская обл
+gorod-belyy;tverskaya-obl;Город Белый;Тверская обл
+gorod-zubtsov;tverskaya-obl;Город Зубцов;Тверская обл
+gorod-staritsa;tverskaya-obl;Город Старица;Тверская обл
+gorod-kalinin;tverskaya-obl;Город Калинин;Тверская обл
+gorod-tver-tverskaya-obl;tverskaya-obl;Город Тверь;Тверская обл
+gorod-andreapol-tverskaya-obl;tverskaya-obl;Город Андреаполь;Тверская обл
+gorod-bezhetsk;tverskaya-obl;Город Бежецк;Тверская обл
+gorod-belyy-tverskaya-obl;tverskaya-obl;Город Белый;Тверская обл
+gorod-bologoe;tverskaya-obl;Город Бологое;Тверская обл
+gorod-vesegonsk-tverskaya-obl;tverskaya-obl;Город Весьегонск;Тверская обл
+gorod-vyshniy-volochek-tverskaya-obl;tverskaya-obl;Город Вышний Волочек;Тверская обл
+gorod-zapadnaya-dvina-tverskaya-obl;tverskaya-obl;Город Западная Двина;Тверская обл
+gorod-zubtsov-tverskaya-obl;tverskaya-obl;Город Зубцов;Тверская обл
+gorod-kalyazin;tverskaya-obl;Город Калязин;Тверская обл
+gorod-kashin-tverskaya-obl;tverskaya-obl;Город Кашин;Тверская обл
+gorod-kimry-tverskaya-obl;tverskaya-obl;Город Кимры;Тверская обл
+gorod-konakovo;tverskaya-obl;Город Конаково;Тверская обл
+gorod-krasnyy-kholm-tverskaya-obl;tverskaya-obl;Город Красный Холм;Тверская обл
+gorod-kuvshinovo;tverskaya-obl;Город Кувшиново;Тверская обл
+gorod-likhoslavl-tverskaya-obl;tverskaya-obl;Город Лихославль;Тверская обл
+gorod-nelidovo-tverskaya-obl;tverskaya-obl;Город Нелидово;Тверская обл
+gorod-ostashkov-tverskaya-obl;tverskaya-obl;Город Осташков;Тверская обл
+gorod-rzhev-tverskaya-obl;tverskaya-obl;Город Ржев;Тверская обл
+gorod-staritsa-tverskaya-obl;tverskaya-obl;Город Старица;Тверская обл
+gorod-torzhok-tverskaya-obl;tverskaya-obl;Город Торжок;Тверская обл
+gorod-toropets;tverskaya-obl;Город Торопец;Тверская обл
+gorod-udomlya-tverskaya-obl;tverskaya-obl;Город Удомля;Тверская обл
+gorod-tomsk;tomskaya-obl;Город Томск;Томская обл
+gorod-kedrovyy;tomskaya-obl;Город Кедровый;Томская обл
+gorod-seversk;tomskaya-obl;Город Северск;Томская обл
+gorod-strezhevoy;tomskaya-obl;Город Стрежевой;Томская обл
+gorod-asino;tomskaya-obl;Город Асино;Томская обл
+gorod-kolpashevo;tomskaya-obl;Город Колпашево;Томская обл
+gorod-tula;tulskaya-obl;Город Тула;Тульская обл
+gorod-donskoy;tulskaya-obl;Город Донской;Тульская обл
+gorod-aleksin;tulskaya-obl;Город Алексин;Тульская обл
+gorod-belev;tulskaya-obl;Город Белев;Тульская обл
+gorod-bogoroditsk;tulskaya-obl;Город Богородицк;Тульская обл
+gorod-venev;tulskaya-obl;Город Венев;Тульская обл
+gorod-efremov;tulskaya-obl;Город Ефремов;Тульская обл
+gorod-kimovsk;tulskaya-obl;Город Кимовск;Тульская обл
+gorod-kireevsk;tulskaya-obl;Город Киреевск;Тульская обл
+gorod-bolokhovo;tulskaya-obl;Город Болохово;Тульская обл
+gorod-lipki;tulskaya-obl;Город Липки;Тульская обл
+gorod-novomoskovsk;tulskaya-obl;Город Новомосковск;Тульская обл
+gorod-sokolniki;tulskaya-obl;Город Сокольники;Тульская обл
+gorod-plavsk;tulskaya-obl;Город Плавск;Тульская обл
+gorod-suvorov;tulskaya-obl;Город Суворов;Тульская обл
+gorod-chekalin;tulskaya-obl;Город Чекалин;Тульская обл
+gorod-uzlovaya;tulskaya-obl;Город Узловая;Тульская обл
+gorod-schekino;tulskaya-obl;Город Щекино;Тульская обл
+gorod-sovetsk-tulskaya-obl;tulskaya-obl;Город Советск;Тульская обл
+gorod-yasnogorsk;tulskaya-obl;Город Ясногорск;Тульская обл
+gorod-tyumen;tyumenskaya-obl;Город Тюмень;Тюменская обл
+gorod-tobolsk;tyumenskaya-obl;Город Тобольск;Тюменская обл
+gorod-ishim;tyumenskaya-obl;Город Ишим;Тюменская обл
+gorod-zavodoukovsk;tyumenskaya-obl;Город Заводоуковск;Тюменская обл
+gorod-yalutorovsk;tyumenskaya-obl;Город Ялуторовск;Тюменская обл
+gorod-zavodoukovsk-tyumenskaya-obl;tyumenskaya-obl;Город Заводоуковск;Тюменская обл
+gorod-ishim-tyumenskaya-obl;tyumenskaya-obl;Город Ишим;Тюменская обл
+gorod-yalutorovsk-tyumenskaya-obl;tyumenskaya-obl;Город Ялуторовск;Тюменская обл
+gorod-ulyanovsk;ulyanovskaya-obl;Город Ульяновск;Ульяновская обл
+gorod-dimitrovgrad;ulyanovskaya-obl;Город Димитровград;Ульяновская обл
+gorod-barysh;ulyanovskaya-obl;Город Барыш;Ульяновская обл
+gorod-novoulyanovsk;ulyanovskaya-obl;Город Новоульяновск;Ульяновская обл
+gorod-novoulyanovsk-ulyanovskaya-obl;ulyanovskaya-obl;Город Новоульяновск;Ульяновская обл
+gorod-barysh-ulyanovskaya-obl;ulyanovskaya-obl;Город Барыш;Ульяновская обл
+gorod-inza;ulyanovskaya-obl;Город Инза;Ульяновская обл
+gorod-sengiley;ulyanovskaya-obl;Город Сенгилей;Ульяновская обл
+gorod-chelyabinsk;chelyabinskaya-obl;Город Челябинск;Челябинская обл
+gorod-verkhniy-ufaley;chelyabinskaya-obl;Город Верхний Уфалей;Челябинская обл
+gorod-korkino;chelyabinskaya-obl;Город Коркино;Челябинская обл
+gorod-zlatoust;chelyabinskaya-obl;Город Златоуст;Челябинская обл
+gorod-karabash;chelyabinskaya-obl;Город Карабаш;Челябинская обл
+gorod-kopeysk;chelyabinskaya-obl;Город Копейск;Челябинская обл
+gorod-kyshtym;chelyabinskaya-obl;Город Кыштым;Челябинская обл
+gorod-magnitogorsk;chelyabinskaya-obl;Город Магнитогорск;Челябинская обл
+gorod-miass;chelyabinskaya-obl;Город Миасс;Челябинская обл
+gorod-ozersk-chelyabinskaya-obl;chelyabinskaya-obl;Город Озерск;Челябинская обл
+gorod-snezhinsk;chelyabinskaya-obl;Город Снежинск;Челябинская обл
+gorod-trekhgornyy;chelyabinskaya-obl;Город Трехгорный;Челябинская обл
+gorod-ust-katav;chelyabinskaya-obl;Город Усть-Катав;Челябинская обл
+gorod-yuzhnouralsk;chelyabinskaya-obl;Город Южноуральск;Челябинская обл
+gorod-nyazepetrovsk;chelyabinskaya-obl;Город Нязепетровск;Челябинская обл
+gorod-kusa;chelyabinskaya-obl;Город Куса;Челябинская обл
+gorod-trekhgornyy-1;chelyabinskaya-obl;Город Трехгорный-1;Челябинская обл
+gorod-chebarkul;chelyabinskaya-obl;Город Чебаркуль;Челябинская обл
+gorod-troitsk-chelyabinskaya-obl;chelyabinskaya-obl;Город Троицк;Челябинская обл
+gorod-minyar;chelyabinskaya-obl;Город Миньяр;Челябинская обл
+gorod-sim;chelyabinskaya-obl;Город Сим;Челябинская обл
+gorod-asha;chelyabinskaya-obl;Город Аша;Челябинская обл
+gorod-kartaly;chelyabinskaya-obl;Город Карталы;Челябинская обл
+gorod-kasli;chelyabinskaya-obl;Город Касли;Челябинская обл
+gorod-yuryuzan;chelyabinskaya-obl;Город Юрюзань;Челябинская обл
+gorod-katav-ivanovsk;chelyabinskaya-obl;Город Катав-Ивановск;Челябинская обл
+gorod-bakal;chelyabinskaya-obl;Город Бакал;Челябинская обл
+gorod-satka;chelyabinskaya-obl;Город Сатка;Челябинская обл
+gorod-verkhneuralsk;chelyabinskaya-obl;Город Верхнеуральск;Челябинская обл
+gorod-kusa-chelyabinskaya-obl;chelyabinskaya-obl;Город Куса;Челябинская обл
+gorod-nyazepetrovsk-chelyabinskaya-obl;chelyabinskaya-obl;Город Нязепетровск;Челябинская обл
+gorod-chebarkul-chelyabinskaya-obl;chelyabinskaya-obl;Город Чебаркуль;Челябинская обл
+gorod-emanzhelinsk;chelyabinskaya-obl;Город Еманжелинск;Челябинская обл
+gorod-korkino-chelyabinskaya-obl;chelyabinskaya-obl;Город Коркино;Челябинская обл
+gorod-plast;chelyabinskaya-obl;Город Пласт;Челябинская обл
+gorod-chita;zabaykalskiy-kray;Город Чита;Забайкальский край
+gorod-chita-46;zabaykalskiy-kray;Город Чита-46;Забайкальский край
+gorod-baley;zabaykalskiy-kray;Город Балей;Забайкальский край
+gorod-borzya;zabaykalskiy-kray;Город Борзя;Забайкальский край
+gorod-krasnokamensk;zabaykalskiy-kray;Город Краснокаменск;Забайкальский край
+gorod-mogocha;zabaykalskiy-kray;Город Могоча;Забайкальский край
+gorod-nerchinsk;zabaykalskiy-kray;Город Нерчинск;Забайкальский край
+gorod-petrovsk-zabaykalskiy;zabaykalskiy-kray;Город Петровск-Забайкальский;Забайкальский край
+gorod-sretensk;zabaykalskiy-kray;Город Сретенск;Забайкальский край
+gorod-khilok;zabaykalskiy-kray;Город Хилок;Забайкальский край
+gorod-shilka;zabaykalskiy-kray;Город Шилка;Забайкальский край
+gorod-yaroslavl;yaroslavskaya-obl;Город Ярославль;Ярославская обл
+gorod-pereslavl-zalesskiy;yaroslavskaya-obl;Город Переславль-Залесский;Ярославская обл
+gorod-gavrilov-yam;yaroslavskaya-obl;Город Гаврилов-Ям;Ярославская обл
+gorod-danilov;yaroslavskaya-obl;Город Данилов;Ярославская обл
+gorod-lyubim;yaroslavskaya-obl;Город Любим;Ярославская обл
+gorod-myshkin;yaroslavskaya-obl;Город Мышкин;Ярославская обл
+gorod-poshekhone;yaroslavskaya-obl;Город Пошехонье;Ярославская обл
+gorod-rostov;yaroslavskaya-obl;Город Ростов;Ярославская обл
+gorod-rybinsk;yaroslavskaya-obl;Город Рыбинск;Ярославская обл
+gorod-tutaev;yaroslavskaya-obl;Город Тутаев;Ярославская обл
+gorod-uglich;yaroslavskaya-obl;Город Углич;Ярославская обл
+gorod-moskva;yaroslavskaya-obl;Город Москва;Ярославская обл
+gorod-moskovskiy-yaroslavskaya-obl;yaroslavskaya-obl;Город Московский;Ярославская обл
+gorod-zelenograd;yaroslavskaya-obl;Город Зеленоград;Ярославская обл
+gorod-scherbinka-yaroslavskaya-obl;yaroslavskaya-obl;Город Щербинка;Ярославская обл
+gorod-troitsk-yaroslavskaya-obl;yaroslavskaya-obl;Город Троицк;Ярославская обл
+gorod-moskovskiy-yaroslavskaya-obl;yaroslavskaya-obl;Город Московский;Ярославская обл
+gorod-moskovskiy-yaroslavskaya-obl;yaroslavskaya-obl;Город Московский;Ярославская обл
+gorod-moskovskiy-yaroslavskaya-obl;yaroslavskaya-obl;Город Московский;Ярославская обл
+gorod-moskovskiy-yaroslavskaya-obl;yaroslavskaya-obl;Город Московский;Ярославская обл
+gorod-sankt-peterburg;yaroslavskaya-obl;Город Санкт-Петербург;Ярославская обл
+gorod-leningrad;yaroslavskaya-obl;Город Ленинград;Ярославская обл
+gorod-zelenogorsk-yaroslavskaya-obl;yaroslavskaya-obl;Город Зеленогорск;Ярославская обл
+gorod-kolpino;yaroslavskaya-obl;Город Колпино;Ярославская обл
+gorod-krasnoe-selo;yaroslavskaya-obl;Город Красное Село;Ярославская обл
+gorod-kronshtadt;yaroslavskaya-obl;Город Кронштадт;Ярославская обл
+gorod-lomonosov;yaroslavskaya-obl;Город Ломоносов;Ярославская обл
+gorod-pavlovsk-yaroslavskaya-obl;yaroslavskaya-obl;Город Павловск;Ярославская обл
+gorod-petergof;yaroslavskaya-obl;Город Петергоф;Ярославская обл
+gorod-petrodvorets;yaroslavskaya-obl;Город Петродворец;Ярославская обл
+gorod-pushkin;yaroslavskaya-obl;Город Пушкин;Ярославская обл
+gorod-sestroretsk;yaroslavskaya-obl;Город Сестрорецк;Ярославская обл
+gorod-birobidzhan;evreyskaya-aobl;Город Биробиджан;Еврейская Аобл
+gorod-birobidzhan-evreyskaya-aobl;evreyskaya-aobl;Город Биробиджан;Еврейская Аобл
+gorod-obluche;evreyskaya-aobl;Город Облучье;Еврейская Аобл
+gorod-naryan-mar;nenetskiy-ao;Город Нарьян-Мар;Ненецкий АО
+gorod-dudinka-taymyrskiy-dolgano-nenetskiy-ao;taymyrskiy-dolgano-nenetskiy-ao;Город Дудинка;Таймырский (Долгано-Ненецкий) АО
+gorod-khanty-mansiysk;khanty-mansiyskiy-yugra-ao;Город Ханты-Мансийск;Ханты-Мансийский (Югра) АО
+gorod-kogalym;khanty-mansiyskiy-yugra-ao;Город Когалым;Ханты-Мансийский (Югра) АО
+gorod-langepas;khanty-mansiyskiy-yugra-ao;Город Лангепас;Ханты-Мансийский (Югра) АО
+gorod-megion;khanty-mansiyskiy-yugra-ao;Город Мегион;Ханты-Мансийский (Югра) АО
+gorod-nyagan;khanty-mansiyskiy-yugra-ao;Город Нягань;Ханты-Мансийский (Югра) АО
+gorod-pokachi;khanty-mansiyskiy-yugra-ao;Город Покачи;Ханты-Мансийский (Югра) АО
+gorod-pyt-yakh;khanty-mansiyskiy-yugra-ao;Город Пыть-Ях;Ханты-Мансийский (Югра) АО
+gorod-uray;khanty-mansiyskiy-yugra-ao;Город Урай;Ханты-Мансийский (Югра) АО
+gorod-surgut;khanty-mansiyskiy-yugra-ao;Город Сургут;Ханты-Мансийский (Югра) АО
+gorod-nizhnevartovsk;khanty-mansiyskiy-yugra-ao;Город Нижневартовск;Ханты-Мансийский (Югра) АО
+gorod-beloyarskiy;khanty-mansiyskiy-yugra-ao;Город Белоярский;Ханты-Мансийский (Югра) АО
+gorod-nefteyugansk;khanty-mansiyskiy-yugra-ao;Город Нефтеюганск;Ханты-Мансийский (Югра) АО
+gorod-raduzhnyy-khanty-mansiyskiy-yugra-ao;khanty-mansiyskiy-yugra-ao;Город Радужный;Ханты-Мансийский (Югра) АО
+gorod-yugorsk;khanty-mansiyskiy-yugra-ao;Город Югорск;Ханты-Мансийский (Югра) АО
+gorod-sovetskiy;khanty-mansiyskiy-yugra-ao;Город Советский;Ханты-Мансийский (Югра) АО
+gorod-lyantor;khanty-mansiyskiy-yugra-ao;Город Лянтор;Ханты-Мансийский (Югра) АО
+gorod-anadyr;chukotskiy-ao;Город Анадырь;Чукотский АО
+gorod-bilibino;chukotskiy-ao;Город Билибино;Чукотский АО
+gorod-pevek;chukotskiy-ao;Город Певек;Чукотский АО
+gorod-salekhard;yamalo-nenetskiy-ao;Город Салехард;Ямало-Ненецкий АО
+gorod-gubkinskiy;yamalo-nenetskiy-ao;Город Губкинский;Ямало-Ненецкий АО
+gorod-labytnangi;yamalo-nenetskiy-ao;Город Лабытнанги;Ямало-Ненецкий АО
+gorod-muravlenko;yamalo-nenetskiy-ao;Город Муравленко;Ямало-Ненецкий АО
+gorod-nadym;yamalo-nenetskiy-ao;Город Надым;Ямало-Ненецкий АО
+gorod-novyy-urengoy;yamalo-nenetskiy-ao;Город Новый Уренгой;Ямало-Ненецкий АО
+gorod-noyabrsk;yamalo-nenetskiy-ao;Город Ноябрьск;Ямало-Ненецкий АО
+gorod-tarko-sale;yamalo-nenetskiy-ao;Город Тарко-Сале;Ямало-Ненецкий АО
+gorod-zaporozhe;zaporozhskaya-obl;Город Запорожье;Запорожская обл
+gorod-volnyansk;zaporozhskaya-obl;Город Вольнянск;Запорожская обл
+gorod-melitopol;zaporozhskaya-obl;Город Мелитополь;Запорожская обл
+gorod-gulyaypole;zaporozhskaya-obl;Город Гуляйполе;Запорожская обл
+gorod-pologi;zaporozhskaya-obl;Город Пологи;Запорожская обл
+gorod-molochansk;zaporozhskaya-obl;Город Молочанск;Запорожская обл
+gorod-tokmak;zaporozhskaya-obl;Город Токмак;Запорожская обл
+gorod-orekhov;zaporozhskaya-obl;Город Орехов;Запорожская обл
+gorod-vasilevka;zaporozhskaya-obl;Город Васильевка;Запорожская обл
+gorod-kamenka-dneprovskaya;zaporozhskaya-obl;Город Каменка-Днепровская;Запорожская обл
+gorod-energodar;zaporozhskaya-obl;Город Энергодар;Запорожская обл
+gorod-dneprorudnoe;zaporozhskaya-obl;Город Днепрорудное;Запорожская обл
+gorod-berdyansk;zaporozhskaya-obl;Город Бердянск;Запорожская обл
+gorod-primorsk-zaporozhskaya-obl;zaporozhskaya-obl;Город Приморск;Запорожская обл
+gorod-kerch;krym-resp;Город Керчь;Крым Республика
+gorod-armyansk;krym-resp;Город Армянск;Крым Республика
+gorod-saki;krym-resp;Город Саки;Крым Республика
+gorod-krasnoperekopsk;krym-resp;Город Красноперекопск;Крым Республика
+gorod-sudak;krym-resp;Город Судак;Крым Республика
+gorod-dzhankoy;krym-resp;Город Джанкой;Крым Республика
+gorod-simferopol;krym-resp;Город Симферополь;Крым Республика
+gorod-yalta;krym-resp;Город Ялта;Крым Республика
+gorod-alupka;krym-resp;Город Алупка;Крым Республика
+gorod-evpatoriya;krym-resp;Город Евпатория;Крым Республика
+gorod-feodosiya;krym-resp;Город Феодосия;Крым Республика
+gorod-podgornoe;krym-resp;Город Подгорное;Крым Республика
+gorod-alushta;krym-resp;Город Алушта;Крым Республика
+gorod-bakhchisaray;krym-resp;Город Бахчисарай;Крым Республика
+gorod-belogorsk-krym-resp;krym-resp;Город Белогорск;Крым Республика
+gorod-dzhankoy-krym-resp;krym-resp;Город Джанкой;Крым Республика
+gorod-staryy-krym;krym-resp;Город Старый Крым;Крым Республика
+gorod-armyansk-krym-resp;krym-resp;Город Армянськ;Крым Республика
+gorod-krasnoperekopsk-krym-resp;krym-resp;Город Красноперекопск;Крым Республика
+gorod-krasnoperekopsk-krym-resp;krym-resp;Город Красноперекопск;Крым Республика
+gorod-schelkino;krym-resp;Город Щелкино;Крым Республика
+gorod-saki-krym-resp;krym-resp;Город Саки;Крым Республика
+gorod-sevastopol;krym-resp;Город Севастополь;Крым Республика
+gorod-inkerman;krym-resp;Город Инкерман;Крым Республика
+gorod-balaklava;krym-resp;Город Балаклава;Крым Республика
+gorod-mariupol;donetskaya-narodnaya-resp;Город Мариуполь;Донецкая Народная Республика
+gorod-makeevka;donetskaya-narodnaya-resp;Город Макеевка;Донецкая Народная Республика
+gorod-kirovskoe;donetskaya-narodnaya-resp;Город Кировское;Донецкая Народная Республика
+gorod-uglegorsk-donetskaya-narodnaya-resp;donetskaya-narodnaya-resp;Город Углегорск;Донецкая Народная Республика
+gorod-amvrosievka;donetskaya-narodnaya-resp;Город Амвросиевка;Донецкая Народная Республика
+gorod-debaltsevo;donetskaya-narodnaya-resp;Город Дебальцево;Донецкая Народная Республика
+gorod-gorlovka;donetskaya-narodnaya-resp;Город Горловка;Донецкая Народная Республика
+gorod-volnovakha;donetskaya-narodnaya-resp;Город Волноваха;Донецкая Народная Республика
+gorod-avdeevka;donetskaya-narodnaya-resp;Город Авдеевка;Донецкая Народная Республика
+gorod-torez;donetskaya-narodnaya-resp;Город Торез;Донецкая Народная Республика
+gorod-dokuchaevsk;donetskaya-narodnaya-resp;Город Докучаевск;Донецкая Народная Республика
+gorod-zhdanovka;donetskaya-narodnaya-resp;Город Ждановка;Донецкая Народная Республика
+gorod-snezhnoe;donetskaya-narodnaya-resp;Город Снежное;Донецкая Народная Республика
+gorod-shakhtyorsk;donetskaya-narodnaya-resp;Город Шахтёрск;Донецкая Народная Республика
+gorod-yasinovataya;donetskaya-narodnaya-resp;Город Ясиноватая;Донецкая Народная Республика
+gorod-novoazovsk;donetskaya-narodnaya-resp;Город Новоазовск;Донецкая Народная Республика
+gorod-donetsk-donetskaya-narodnaya-resp;donetskaya-narodnaya-resp;Город Донецк;Донецкая Народная Республика
+gorod-mospino;donetskaya-narodnaya-resp;Город Моспино;Донецкая Народная Республика
+gorod-druzhkovka;donetskaya-narodnaya-resp;Город Дружковка;Донецкая Народная Республика
+gorod-konstantinovka;donetskaya-narodnaya-resp;Город Константиновка;Донецкая Народная Республика
+gorod-kramatorsk;donetskaya-narodnaya-resp;Город Краматорск;Донецкая Народная Республика
+gorod-slavyansk;donetskaya-narodnaya-resp;Город Славянск;Донецкая Народная Республика
+gorod-krasnyy-liman;donetskaya-narodnaya-resp;Город Красный Лиман;Донецкая Народная Республика
+gorod-nikolaevka;donetskaya-narodnaya-resp;Город Николаевка;Донецкая Народная Республика
+gorod-svyatogorsk;donetskaya-narodnaya-resp;Город Святогорск;Донецкая Народная Республика
+gorod-artemovsk-donetskaya-narodnaya-resp;donetskaya-narodnaya-resp;Город Артемовск;Донецкая Народная Республика
+gorod-dzerzhinsk-donetskaya-narodnaya-resp;donetskaya-narodnaya-resp;Город Дзержинск;Донецкая Народная Республика
+gorod-artyomovo;donetskaya-narodnaya-resp;Город Артёмово;Донецкая Народная Республика
+gorod-soledar;donetskaya-narodnaya-resp;Город Соледар;Донецкая Народная Республика
+gorod-seversk-donetskaya-narodnaya-resp;donetskaya-narodnaya-resp;Город Северск;Донецкая Народная Республика
+gorod-svetlodarsk;donetskaya-narodnaya-resp;Город Светлодарск;Донецкая Народная Республика
+gorod-chasov-yar;donetskaya-narodnaya-resp;Город Часов Яр;Донецкая Народная Республика
+gorod-dimitrov;donetskaya-narodnaya-resp;Город Димитров;Донецкая Народная Республика
+gorod-krasnoarmeysk-donetskaya-narodnaya-resp;donetskaya-narodnaya-resp;Город Красноармейск;Донецкая Народная Республика
+gorod-belitskoe;donetskaya-narodnaya-resp;Город Белицкое;Донецкая Народная Республика
+gorod-belozyorskoe;donetskaya-narodnaya-resp;Город Белозёрское;Донецкая Народная Республика
+gorod-gornyak-donetskaya-narodnaya-resp;donetskaya-narodnaya-resp;Город Горняк;Донецкая Народная Республика
+gorod-dobropole;donetskaya-narodnaya-resp;Город Доброполье;Донецкая Народная Республика
+gorod-krasnogorovka;donetskaya-narodnaya-resp;Город Красногоровка;Донецкая Народная Республика
+gorod-kurakhovo;donetskaya-narodnaya-resp;Город Курахово;Донецкая Народная Республика
+gorod-marinka;donetskaya-narodnaya-resp;Город Марьинка;Донецкая Народная Республика
+gorod-novogrodovka;donetskaya-narodnaya-resp;Город Новогродовка;Донецкая Народная Республика
+gorod-rodinskoe;donetskaya-narodnaya-resp;Город Родинское;Донецкая Народная Республика
+gorod-selidovo;donetskaya-narodnaya-resp;Город Селидово;Донецкая Народная Республика
+gorod-ukrainsk;donetskaya-narodnaya-resp;Город Украинск;Донецкая Народная Республика
+gorod-khartsyzsk;donetskaya-narodnaya-resp;Город Харцызск;Донецкая Народная Республика
+gorod-zugres;donetskaya-narodnaya-resp;Город Зугрэс;Донецкая Народная Республика
+gorod-ilovaysk;donetskaya-narodnaya-resp;Город Иловайск;Донецкая Народная Республика
+gorod-enakievo;donetskaya-narodnaya-resp;Город Енакиево;Донецкая Народная Республика
+gorod-yunokommunarovsk;donetskaya-narodnaya-resp;Город Юнокоммунаровск;Донецкая Народная Республика
+gorod-ugledar;donetskaya-narodnaya-resp;Город Угледар;Донецкая Народная Республика
+gorod-rodinskoe-donetskaya-narodnaya-resp;donetskaya-narodnaya-resp;Город Родинское;Донецкая Народная Республика
+gorod-belozyorskoe-donetskaya-narodnaya-resp;donetskaya-narodnaya-resp;Город Белозёрское;Донецкая Народная Республика
+gorod-dobropole-donetskaya-narodnaya-resp;donetskaya-narodnaya-resp;Город Доброполье;Донецкая Народная Республика
+gorod-belitskoe-donetskaya-narodnaya-resp;donetskaya-narodnaya-resp;Город Белицкое;Донецкая Народная Республика
+gorod-kurakhovo-donetskaya-narodnaya-resp;donetskaya-narodnaya-resp;Город Курахово;Донецкая Народная Республика
+gorod-gornyak-donetskaya-narodnaya-resp;donetskaya-narodnaya-resp;Город Горняк;Донецкая Народная Республика
+gorod-marinka-donetskaya-narodnaya-resp;donetskaya-narodnaya-resp;Город Марьинка;Донецкая Народная Республика
+gorod-krasnogorovka-donetskaya-narodnaya-resp;donetskaya-narodnaya-resp;Город Красногоровка;Донецкая Народная Республика
+gorod-novogrodovka-donetskaya-narodnaya-resp;donetskaya-narodnaya-resp;Город Новогродовка;Донецкая Народная Республика
+gorod-selidovo-donetskaya-narodnaya-resp;donetskaya-narodnaya-resp;Город Селидово;Донецкая Народная Республика
+gorod-ukrainsk-donetskaya-narodnaya-resp;donetskaya-narodnaya-resp;Город Украинск;Донецкая Народная Республика
+gorod-novoazovsk-donetskaya-narodnaya-resp;donetskaya-narodnaya-resp;Город Новоазовск;Донецкая Народная Республика
+gorod-rovenki;luganskaya-narodnaya-resp;Город Ровеньки;Луганская Народная Республика
+gorod-lutugino;luganskaya-narodnaya-resp;Город Лутугино;Луганская Народная Республика
+gorod-severodonetsk;luganskaya-narodnaya-resp;Город Северодонецк;Луганская Народная Республика
+gorod-rubezhnoe;luganskaya-narodnaya-resp;Город Рубежное;Луганская Народная Республика
+gorod-sverdlovsk-luganskaya-narodnaya-resp;luganskaya-narodnaya-resp;Город Свердловск;Луганская Народная Республика
+gorod-chervonopartizansk;luganskaya-narodnaya-resp;Город Червонопартизанск;Луганская Народная Республика
+gorod-antratsit;luganskaya-narodnaya-resp;Город Антрацит;Луганская Народная Республика
+gorod-alchevsk;luganskaya-narodnaya-resp;Город Алчевск;Луганская Народная Республика
+gorod-zorinsk;luganskaya-narodnaya-resp;Город Зоринск;Луганская Народная Республика
+gorod-kipuchee;luganskaya-narodnaya-resp;Город Кипучее;Луганская Народная Республика
+gorod-pervomaysk-luganskaya-narodnaya-resp;luganskaya-narodnaya-resp;Город Первомайск;Луганская Народная Республика
+gorod-pervomaysk-luganskaya-narodnaya-resp;luganskaya-narodnaya-resp;Город Первомайск.;Луганская Народная Республика
+gorod-gorskoe;luganskaya-narodnaya-resp;Город Горское;Луганская Народная Республика
+gorod-zolotoe;luganskaya-narodnaya-resp;Город Золотое;Луганская Народная Республика
+gorod-popasnaya;luganskaya-narodnaya-resp;Город Попасная;Луганская Народная Республика
+gorod-bryanka;luganskaya-narodnaya-resp;Город Брянка;Луганская Народная Республика
+gorod-lugansk;luganskaya-narodnaya-resp;Город Луганск;Луганская Народная Республика
+gorod-aleksandrovsk-luganskaya-narodnaya-resp;luganskaya-narodnaya-resp;Город Александровск;Луганская Народная Республика
+gorod-schaste;luganskaya-narodnaya-resp;Город Счастье;Луганская Народная Республика
+gorod-krasnodon;luganskaya-narodnaya-resp;Город Краснодон;Луганская Народная Республика
+gorod-molodogvardeysk;luganskaya-narodnaya-resp;Город Молодогвардейск;Луганская Народная Республика
+gorod-sukhodolsk;luganskaya-narodnaya-resp;Город Суходольск;Луганская Народная Республика
+gorod-krasnyy-luch;luganskaya-narodnaya-resp;Город Красный луч;Луганская Народная Республика
+gorod-petrovskoe;luganskaya-narodnaya-resp;Город Петровское;Луганская Народная Республика
+gorod-petrovo-krasnosele;luganskaya-narodnaya-resp;Город Петрово-Красноселье;Луганская Народная Республика
+gorod-miusinsk;luganskaya-narodnaya-resp;Город Миусинск;Луганская Народная Республика
+gorod-vakhrushevo;luganskaya-narodnaya-resp;Город Вахрушево;Луганская Народная Республика
+gorod-bokovo-khrustalnoe;luganskaya-narodnaya-resp;Город Боково-Хрустальное;Луганская Народная Республика
+gorod-lisichansk;luganskaya-narodnaya-resp;Город Лисичанск;Луганская Народная Республика
+gorod-novodruzhesk;luganskaya-narodnaya-resp;Город Новодружеск;Луганская Народная Республика
+gorod-privole;luganskaya-narodnaya-resp;Город Приволье;Луганская Народная Республика
+gorod-perevalsk;luganskaya-narodnaya-resp;Город Перевальск;Луганская Народная Республика
+gorod-artyomovsk;luganskaya-narodnaya-resp;Город Артёмовск;Луганская Народная Республика
+gorod-zorinsk-luganskaya-narodnaya-resp;luganskaya-narodnaya-resp;Город Зоринск;Луганская Народная Республика
+gorod-svatovo;luganskaya-narodnaya-resp;Город Сватово;Луганская Народная Республика
+gorod-severodonetsk-luganskaya-narodnaya-resp;luganskaya-narodnaya-resp;Город Северодонецк;Луганская Народная Республика
+gorod-gorskoe-luganskaya-narodnaya-resp;luganskaya-narodnaya-resp;Город Горское;Луганская Народная Республика
+gorod-zolotoe-luganskaya-narodnaya-resp;luganskaya-narodnaya-resp;Город Золотое;Луганская Народная Республика
+gorod-kremennaya;luganskaya-narodnaya-resp;Город Кременная;Луганская Народная Республика
+gorod-popasnaya-luganskaya-narodnaya-resp;luganskaya-narodnaya-resp;Город Попасная;Луганская Народная Республика
+gorod-rubezhnoe-luganskaya-narodnaya-resp;luganskaya-narodnaya-resp;Город Рубежное;Луганская Народная Республика
+gorod-starobelsk;luganskaya-narodnaya-resp;Город Старобельск;Луганская Народная Республика
+gorod-schaste-luganskaya-narodnaya-resp;luganskaya-narodnaya-resp;Город Счастье;Луганская Народная Республика
+gorod-kirovsk-luganskaya-narodnaya-resp;luganskaya-narodnaya-resp;Город Кировск;Луганская Народная Республика
+gorod-stakhanov;luganskaya-narodnaya-resp;Город Стаханов;Луганская Народная Республика
+gorod-almaznaya;luganskaya-narodnaya-resp;Город Алмазная;Луганская Народная Республика
+gorod-pervomaysk-luganskaya-narodnaya-resp;luganskaya-narodnaya-resp;Город Первомайск;Луганская Народная Республика
+gorod-irmino;luganskaya-narodnaya-resp;Город Ирмино;Луганская Народная Республика
+gorod-troitskiy;luganskaya-narodnaya-resp;Город Троицкий;Луганская Народная Республика
+gorod-kremennaya-luganskaya-narodnaya-resp;luganskaya-narodnaya-resp;Город Кременная;Луганская Народная Республика
+gorod-zimogore;luganskaya-narodnaya-resp;Город Зимогорье;Луганская Народная Республика
+gorod-lutugino-luganskaya-narodnaya-resp;luganskaya-narodnaya-resp;Город Лутугино;Луганская Народная Республика
+gorod-artemovsk-luganskaya-narodnaya-resp;luganskaya-narodnaya-resp;Город Артемовск;Луганская Народная Республика
+gorod-kipuchee-luganskaya-narodnaya-resp;luganskaya-narodnaya-resp;Город Кипучее;Луганская Народная Республика
+gorod-perevalsk-luganskaya-narodnaya-resp;luganskaya-narodnaya-resp;Город Перевальск;Луганская Народная Республика
+gorod-novaya-kakhovka;khersonskaya-obl;Город Новая Каховка;Херсонская обл
+gorod-kherson;khersonskaya-obl;Город Херсон;Херсонская обл
+gorod-snigiryovka;khersonskaya-obl;Город Снигирёвка;Херсонская обл
+gorod-alyoshki;khersonskaya-obl;Город Алёшки;Херсонская обл
+gorod-golaya-pristan;khersonskaya-obl;Город Голая Пристань;Херсонская обл
+gorod-genichesk;khersonskaya-obl;Город Геническ;Херсонская обл
+gorod-skadovsk;khersonskaya-obl;Город Скадовск;Херсонская обл
+gorod-berislav;khersonskaya-obl;Город Берислав;Херсонская обл
+gorod-kakhovka;khersonskaya-obl;Город Каховка;Херсонская обл
+gorod-tavriysk;khersonskaya-obl;Город Таврийск;Херсонская обл
+gorod-baykonur;khersonskaya-obl;Город Байконур;Херсонская обл

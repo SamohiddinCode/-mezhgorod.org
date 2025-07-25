@@ -1,0 +1,168 @@
+/*==========  Desktop First Method  ==========*/
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+	.section1 h1 {
+		font-size: 30px;
+	}
+	h2 {
+		font-size: 24px;
+	}
+	.zakaz b.title {
+		font-size: 24px;
+	}
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 767px) {
+	.section1 {
+		background-position: 75% 0%;
+	}
+
+	.section1 h1 {
+		font-size: 26px;
+	}
+	h2 {
+		font-size: 22px;
+	}
+
+	.section1 .select_address #city1 {
+		border-radius: 8px 8px 0 0;
+	}
+	.section1 .select_address #city2 {
+		border-radius: 0 0 8px 8px;
+	}
+	.section1 .select_address .col-md:nth-child(2)::before {
+		width: 90%;
+		height: 1px;
+		top: 0;
+		left: 5%;
+	}
+	.section1 .select_address button {
+		margin-top: 16px;
+		border-radius: 8px;
+		font-size: 16px;
+	}
+
+	.section2 .line .divider,
+	.section2 .line .divider.oked {
+		width: 1px;
+		height: 6.875rem;
+		position: absolute;
+		left: 2px;
+		top: 48px;
+	}
+	.section2 .col-md-4:nth-child(2) .line .divider {
+		height: 5.5rem;
+	}
+	.section2 .title {
+		margin-top: -72px;
+	}
+	.section2 .title,
+	.section2 .desc {
+		margin-left: 64px;
+	}
+	.section2 .desc {
+		margin-bottom: 1.5rem;
+	}
+	.section2 .line .divider.oked {
+		height: 3.325rem;
+	}
+	.section2 .line .divider.oked::after {
+		top: 58px;
+		right: -20px;
+	}
+
+	.zakaz b.title {
+		font-size: 22px;
+	}
+	.zakaz label p {
+		font-size: 12px;
+	}
+
+	.tarifmode .item .item1 {
+		width: 100%;
+		padding-top: 16px;
+	}
+	.tarifmode .item .item1::after {
+		display: none;
+	}
+	.tarifmode .item .item2 {
+		padding-top: 0;
+		text-align: center;
+	}
+	.tarifmode .item .item3 {
+		padding: 20px 16px;
+	}
+	.tarifmode .item .item3 .bttn {
+		width: 100%;
+	}
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 576px) {
+}
+
+
+/* Personal edit */
+@media only screen and (max-width : 425px) {
+}
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 320px) {
+
+}
+
+
+/*==========  Mobile First Method  ==========*/
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 576px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+	.section1 .item {
+		margin-bottom: 40px;
+	}
+
+	.tarifmode .item .item2 {
+		width: 330px;
+	}
+
+	header .logo,
+	footer .logo {
+		font-size: 26px;
+	}
+	header .phonebox,
+	footer .phonebox {
+		text-align: right;
+	}
+	header .phonebox .phone,
+	footer .phonebox .phone {
+		/*font-size: 26px;*/
+	}
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+
+}
+
+ /* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+	.tarifmode .item .item2 {
+		width: 410px;
+	}
+}
